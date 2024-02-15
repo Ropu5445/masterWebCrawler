@@ -1,4 +1,3 @@
-const bodyParser = require('body-parser');
 const config = require('./config');
 const express = require('express');
 
@@ -6,7 +5,6 @@ const app = express();
 const port = config.server.port;
 const host = config.server.host;
 
-app.use(bodyParser.json());
 app.use(express.static(__dirname + '/public'));
 
 app.route('/')
@@ -27,4 +25,4 @@ app.once('error', function(err) {
         console.log(`Port ${port} already in use`);
         process.exit();
     }
-  });
+});
