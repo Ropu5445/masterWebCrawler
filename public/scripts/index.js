@@ -1,4 +1,5 @@
 const table = document.getElementById("data-table")
+const urlPattern = /(?:https?):\/\/(\w+:?\w*)?(\S+)(:\d+)?(\/|\/([\w#!:.?+=&%!\-\/]))?/;
 var jsonData
 
 async function fetchData(file) {
@@ -15,7 +16,6 @@ function handleData() {
     removeAllChildNodes(table)
     
     let cols = Object.keys(jsonData[0]);
-    
     let thead = document.createElement("thead");
     let tr = document.createElement("tr");
     let tbody = document.createElement("tbody");
@@ -40,7 +40,15 @@ function handleData() {
         // Loop through the values and create table cells
         vals.forEach((elem) => {
             let td = document.createElement("td");
-            td.innerText = elem; // Set the value as the text of the table cell
+            if (isValidUrl(elem)) {
+                let a = document.createElement("a")
+                a.href = elem
+                a.innerText = "Mene sivulle"
+                td.appendChild(a)
+            }
+            else {
+                td.innerText = elem; // Set the value as the text of the table cell
+            }
             tr.appendChild(td); // Append the table cell to the table row
         });
         tbody.appendChild(tr); // Append the table row to the table
@@ -65,3 +73,13 @@ function addActiveOnClick(elem) {
 }
 
 fetchData("test.json")
+
+const isValidUrl = urlString=> {
+    var urlPattern = new RegExp('^(https?:\\/\\/)?'+ // validate protocol
+  '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|'+ // validate domain name
+  '((\\d{1,3}\\.){3}\\d{1,3}))'+ // validate OR ip (v4) address
+  '(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*'+ // validate port and path
+  '(\\?[;&a-z\\d%_.~+=-]*)?'+ // validate query string
+  '(\\#[-a-z\\d_]*)?$','i'); // validate fragment locator
+return !!urlPattern.test(urlString);
+}
