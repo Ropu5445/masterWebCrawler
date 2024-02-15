@@ -14,7 +14,9 @@ result = []
 while True:
     noMoreDrivers = False
     url = f"https://www.jimms.fi/fi/Product/List/000-00P/komponentit--naytonohjaimet?p={current_page}&ob=5&fg=000-213&fg=000-21D&fg=000-22X&fg=000-23W&fg=000-254&fg=000-258&fg=000-25T&fg=000-25U&fg=000-25V"
-    driver = webdriver.Chrome()
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless=new")
+    driver = webdriver.Chrome(options=options)
     driver.get(url)
     time.sleep(5)
     page_source = driver.page_source
@@ -96,7 +98,7 @@ while True:
         value += 1
     json_data = json.dumps(result, indent=4, ensure_ascii=False)
     print("Json successful")
-    with open('jimms.json', 'w', encoding='utf-8') as f:
+    with open('public/data/jimms.json', 'w', encoding='utf-8') as f:
         f.write(json_data)
 
     next_pagelink = soup.find('a', class_='product-list__pagination')
