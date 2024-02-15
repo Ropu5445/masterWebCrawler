@@ -33,7 +33,7 @@ function handleData() {
     
     jsonData.forEach((item) => {
         let tr = document.createElement("tr");
-        
+        tr.classList.add("item")
         // Get the values of the current object in the JSON data
         let vals = Object.values(item);
         
