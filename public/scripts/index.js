@@ -7,7 +7,7 @@ async function fetchData(file) {
         jsonData = await response.json();
         await handleData(file)
     } catch(error) {
-        console.log("Error: ", error)
+        //pass
     }
 }
 
