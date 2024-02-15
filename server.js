@@ -13,13 +13,7 @@ app.route('/')
     .get((req, res) => {
         res.sendFile(__dirname + '/public/index.html');
     })
-    .post((req, res) => {
-        res.sendStatus(405)
-    })
-    .put((req, res) => {
-        res.sendStatus(405)
-    })
-    .delete((req, res) => {
+    .all((req, res) => {
         res.sendStatus(405)
     })
 
