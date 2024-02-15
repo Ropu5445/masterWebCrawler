@@ -4,13 +4,13 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Master WebCrawler</title>
-        <link rel="stylesheet" href="/src/styles/bulma/css/bulma.css">
+        <link rel="stylesheet" href="../styles/bulma/css/bulma.css">
     </head>
     <body>
         <div class="box is-flex is-justify-content-center mx-5 my-5">
             <div class="tabs">
                 <ul>
-                    <li><a onclick="fetchData('näytönohjaimet.json')">Näytönohjaimet</a></li>
+                    <li><a onclick="fetchData('drivers.json')">Näytönohjaimet</a></li>
                     <li><a onclick="fetchData('ajoneuvot.json')">Ajoneuvot</a></li>
                     <li><a onclick="fetchData('asunnot.json')">Asunnot</a></li>
                     <li><a onclick="fetchData('matkakohteet.json')">Matkakohteet</a></li>
@@ -22,8 +22,8 @@
         <div class="box is-flex is-justify-content-center mx-5 my-5">
             <table class="table is-bordered is-striped is-fullwidth" id="data-table">
                 <!-- javascript created html comes here-->
-                <script src="./index.js"></script>
             </table>
         </div>
     </body>
+    <script src="../scripts/index.js"></script>
 </html>

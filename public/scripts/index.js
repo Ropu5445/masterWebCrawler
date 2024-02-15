@@ -3,7 +3,7 @@ var jsonData
 
 async function fetchData(file) {
     try {
-        const response = await fetch("/src/data/" + file);
+        const response = await fetch("../data/" + file);
         jsonData = await response.json();
         await handleData(file)
     } catch(error) {
@@ -28,8 +28,8 @@ function handleData() {
      });
 
     thead.appendChild(tr); // Append the header row to the header
-    table.append(thead) // Append the header to the table
-    table.append(tbody)
+    table.appendChild(thead) // Append the header to the table
+    table.appendChild(tbody)
 
     jsonData.forEach((item) => {
         let tr = document.createElement("tr");
@@ -48,8 +48,10 @@ function handleData() {
 }
 
 function removeAllChildNodes(parent) {
-    while (parent.firstChild) {
-        parent.removeChild(parent.firstChild);
+    if (parent) {
+        while (parent.firstChild) {
+            parent.removeChild(parent.firstChild);
+        }
     }
 }
 
