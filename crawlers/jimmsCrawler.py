@@ -7,10 +7,10 @@ import json
 baselink = "https://www.jimms.fi"
 current_page = 1
 i = 1
-dataN = {}
-dataA = {}
-resultN = []
-resultA = []
+
+data = {}
+result = []
+
 while True:
     noMoreDrivers = False
     url = f"https://www.jimms.fi/fi/Product/List/000-00P/komponentit--naytonohjaimet?p={current_page}&ob=5&fg=000-213&fg=000-21D&fg=000-22X&fg=000-23W&fg=000-254&fg=000-258&fg=000-25T&fg=000-25U&fg=000-25V"
@@ -40,23 +40,23 @@ while True:
 
         data = {
                 "id": i,
+                "make": 'Nvidia',
                 "name": driverName,
                 "link": driverLink,
                 "price": driverPrice,
             }
-        resultN.append(data)
+        result.append(data)
         i += 1
         value += 1
-    json_data = json.dumps(resultN, indent=4, ensure_ascii=False)
+    json_data = json.dumps(result, indent=4, ensure_ascii=False)
     print("Json successful")
-    with open('jimmsNvidia.json', 'w', encoding='utf-8') as f:
+    with open('jimms.json', 'w', encoding='utf-8') as f:
         f.write(json_data)
 
     next_pagelink = soup.find('a', class_='product-list__pagination')
     if noMoreDrivers == True:
         break
 current_page = 1
-i = 1
 while True:
     noMoreDrivers = False
     url = f"https://www.jimms.fi/fi/Product/List/000-00P/komponentit--naytonohjaimet?p={current_page}&ob=5&fg=000-0LP"
@@ -84,18 +84,19 @@ while True:
             driver.close()
             break
 
-        dataA = {
+        data = {
                 "id": i,
+                "make": 'AMD',
                 "name": driverName,
                 "link": driverLink,
                 "price": driverPrice,
             }
-        resultA.append(dataA)
+        result.append(data)
         i += 1
         value += 1
-    json_data = json.dumps(resultA, indent=4, ensure_ascii=False)
+    json_data = json.dumps(result, indent=4, ensure_ascii=False)
     print("Json successful")
-    with open('jimmsAMD.json', 'w', encoding='utf-8') as f:
+    with open('jimms.json', 'w', encoding='utf-8') as f:
         f.write(json_data)
 
     next_pagelink = soup.find('a', class_='product-list__pagination')
