@@ -1,5 +1,5 @@
 # Master WebCrawler Projekti
-## Setup
+## Asennus
 Kloonaa git repo ja asenna tarvittavat node moduulit
 ```
 git clone https://github.com/Ropu5445/masterWebCrawler.git
