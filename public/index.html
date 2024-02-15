@@ -8,16 +8,16 @@
     </head>
     <body>
         <div class="box is-flex is-justify-content-center mx-5 my-5">
-            <div class="tabs">
+            <div class="tabs is-boxed">
                 <ul>
-                    <li><a onclick="fetchData('drivers.json')">Näytönohjaimet</a></li>
-                    <li><a onclick="fetchData('cars.json')">Autot</a></li>
-                    <li><a onclick="fetchData('tracktors.json')">Traktorit</a></li>
-                    <li><a onclick="fetchData('games.json')">Pelit</a></li>
-                    <li><a onclick="fetchData('asunnot.json')">Asunnot</a></li>
-                    <li><a onclick="fetchData('matkakohteet.json')">Matkakohteet</a></li>
-                    <li><a onclick="fetchData('hotellit.json')">Hotellit</a></li>
-                    <li><a onclick="fetchData('test.json')">Test</a></li>
+                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('drivers.json')">Näytönohjaimet</a></li>
+                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('cars.json')">Autot</a></li>
+                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('tracktors.json')">Traktorit</a></li>
+                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('games.json')">Pelit</a></li>
+                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('asunnot.json')">Asunnot</a></li>
+                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('matkakohteet.json')">Matkakohteet</a></li>
+                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('hotellit.json')">Hotellit</a></li>
+                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('test.json')">Test</a></li>
                 </ul>
             </div>
         </div>
