@@ -1,31 +1,58 @@
 <!DOCTYPE html>
 <html class="has-background-black-ter">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Master WebCrawler</title>
-        <link rel="stylesheet" href="../styles/bulma/css/bulma.css">
-    </head>
-    <body>
-        <div class="box is-flex is-justify-content-center mx-5 my-5">
-            <div class="tabs is-toggle is-fullwidth">
-                <ul>
-                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('jimms.json')">Näytönohjaimet</a></li>
-                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('cars.json')">Autot</a></li>
-                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('tracktors.json')">Traktorit</a></li>
-                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('games.json')">Pelit</a></li>
-                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('asunnot.json')">Asunnot</a></li>
-                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('matkakohteet.json')">Matkakohteet</a></li>
-                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('hotellit.json')">Hotellit</a></li>
-                    <li><a class="tab" onclick="addActiveOnClick(this); fetchData('test.json')">Test</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="box is-flex is-justify-content-center mx-5 my-5">
-            <table class="table is-bordered is-striped is-fullwidth" id="data-table">
-                <!-- javascript created html comes here-->
-            </table>
-        </div>
-    </body>
-    <script src="../scripts/index.js"></script>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Master WebCrawler</title>
+		<link rel="stylesheet" href="../styles/bulma/css/bulma.css">
+	</head>
+	<body>
+		<nav class="navbar" role="navigation" aria-label="main navigation">
+			<div id="navbar" class="navbar-menu">
+				<div class="navbar-start">
+					<div class="navbar-item has-dropdown is-hoverable">
+						<a class="navbar-link">Näytönohjaimet</a>
+						<div class="navbar-dropdown">
+							<a class="navbar-item" onclick="fetchData('jimms.json')">Jimms</a>
+							<a class="navbar-item" onclick="fetchData('gigantti.json')">Gigantti</a>
+							<a class="navbar-item" onclick="fetchData('proshop.json')">Proshop</a>
+						</div>
+					</div>
+
+					<div class="navbar-item has-dropdown is-hoverable">
+						<a class="navbar-link">Ajoneuvot</a>
+						<div class="navbar-dropdown">
+							<a class="navbar-item" onclick="fetchData('autot.json')">Autot</a>
+							<a class="navbar-item" onclick="fetchData('traktorit.json')">Traktorit</a>
+						</div>
+					</div>
+
+					<a class="navbar-item" onclick="fetchData('pelit.json')">Pelit</a>
+
+					<div class="navbar-item has-dropdown is-hoverable">
+						<a class="navbar-link">Asunnot</a>
+						<div class="navbar-dropdown">
+							<a class="navbar-item" onclick="fetchData('talot.json')">Talot</a>
+							<a class="navbar-item" onclick="fetchData('mokit.json')">Mökit</a>
+							<a class="navbar-item" onclick="fetchData('hotellit.json')">Hotellit</a>
+						</div>
+					</div>
+
+					<div class="navbar-item has-dropdown is-hoverable">
+						<a class="navbar-link">Matkakohteet</a>
+						<div class="navbar-dropdown">
+							<a class="navbar-item" onclick="fetchData('ulkomaan.json')">Ulkomaan matkakohteet</a>
+							<a class="navbar-item" onclick="fetchData('kotimaan.json')">Kotimaan matkakohteet</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<div class="box mx-5 my-5">
+			<table class="table is-bordered is-striped is-fullwidth" id="data-table">
+				<!-- javascript created html comes here-->
+			</table>
+		</div>
+	</body>
+	<script src="../scripts/index.js"></script>
 </html>
