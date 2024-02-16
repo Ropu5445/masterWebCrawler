@@ -34,7 +34,7 @@ for card in drivers:
 
     index += 1
 driver.close()
-with open('public/data/drivers.json', 'w', encoding='utf-8') as json_file:
+with open('public/data/gigantti.json', 'w', encoding='utf-8') as json_file:
     json.dump(result, json_file, indent=2, ensure_ascii=False)
 
 print("Crawl results saved to json file")
