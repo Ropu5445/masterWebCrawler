@@ -19,4 +19,4 @@ Voit käynnistää serverin nodella
 node server.js
 ```
 
-![Alt text](./screenshots/example.jpg?raw=true)
+![Esimerkki verkkosivusta](./screenshots/example.jpg?raw=true)
