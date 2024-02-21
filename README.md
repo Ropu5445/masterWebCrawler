@@ -3,7 +3,12 @@
 Kloonaa git repo ja asenna tarvittavat node moduulit
 ```
 git clone https://github.com/Ropu5445/masterWebCrawler.git
-npm i express
+npm install
+```
+Tee python venv projekti kansioon ja asenna tarvittavat python moduulit
+```
+python -m venv venv
+python -m pip install -r requirements.txt
 ```
 Voit käynnistää serverin komennolla
 ```
