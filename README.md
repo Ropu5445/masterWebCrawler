@@ -1,17 +1,20 @@
 # Master WebCrawler Projekti
-## Asennus
+## Projektin Asennus
 Kloonaa git repo ja asenna tarvittavat node moduulit
 ```
 git clone https://github.com/Ropu5445/masterWebCrawler.git
 npm install
 ```
-Tee python venv projekti kansioon, aktivoi se ja asenna tarvittavat python moduulit
+## Python scriptien käyttö
+Tee python venv projekti kansioon, aktivoi se ja asenna tarvittavat python moduulit. Tämän jälkeen voit käyttää python scriptejä vapaasti. Muista aina aktivoida venv, ennen kuin yrität käyttää python scriptiä.
 ```
 python -m venv venv
 ./venv/Scripts/activate
 python -m pip install -r requirements.txt
+python gigantti.py
 ```
-Voit käynnistää serverin komennolla
+## Serverin ja Verkkosivun käyttö
+Voit käynnistää serverin nodella
 ```
 node server.js
 ```
