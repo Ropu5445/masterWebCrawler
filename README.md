@@ -14,3 +14,5 @@ Voit käynnistää serverin komennolla
 ```
 node server.js
 ```
+
+![Alt text](./screenshots/example.jpg?raw=true)
