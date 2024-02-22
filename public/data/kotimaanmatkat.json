@@ -1,0 +1,77 @@
+[
+{
+    "kaupunki": "Ivalo",
+    "hinta": "155 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/ivalo"
+},
+{
+    "kaupunki": "Joensuu",
+    "hinta": "116 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/joensuu"
+},
+{
+    "kaupunki": "Jyv\u00e4skyl\u00e4",
+    "hinta": "152 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/jyv%C3%A4skyl%C3%A4"
+},
+{
+    "kaupunki": "Kajaani",
+    "hinta": "134 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/kajaani"
+},
+{
+    "kaupunki": "Kemi",
+    "hinta": "125 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/kemi"
+},
+{
+    "kaupunki": "Kittil\u00e4",
+    "hinta": "153 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/kittil%C3%A4"
+},
+{
+    "kaupunki": "Kokkola-Pietarsaari",
+    "hinta": "163 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/kokkola-pietarsaari"
+},
+{
+    "kaupunki": "Kuopio",
+    "hinta": "108 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/kuopio"
+},
+{
+    "kaupunki": "Kuusamo",
+    "hinta": "158 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/kuusamo"
+},
+{
+    "kaupunki": "Maarianhamina",
+    "hinta": "122 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/maarianhamina"
+},
+{
+    "kaupunki": "Oulu",
+    "hinta": "108 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/oulu"
+},
+{
+    "kaupunki": "Rovaniemi",
+    "hinta": "126 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/rovaniemi"
+},
+{
+    "kaupunki": "Tampere",
+    "hinta": "60 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/tampere"
+},
+{
+    "kaupunki": "Turku",
+    "hinta": "60 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/turku"
+},
+{
+    "kaupunki": "Vaasa",
+    "hinta": "127 \u20ac",
+    "linkki": "https://www.finnair.com/fi-fi/kohteet/eurooppa/suomi/vaasa"
+}
+]
