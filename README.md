@@ -14,7 +14,7 @@ python -m pip install -r requirements.txt
 python gigantti.py
 ```
 ## Serverin ja Verkkosivun käyttö
-Voit käynnistää serverin nodella
+Voit käynnistää serverin nodella ja mene [localhost](localhost:80) sivulle.
 ```
 node server.js
 ```
