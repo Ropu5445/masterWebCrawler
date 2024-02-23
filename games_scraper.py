@@ -1,96 +1,74 @@
-import re, time, json
+import json
 from selenium import webdriver
 from bs4 import BeautifulSoup
 
+STEAM_SEARCH_URL = 'https://store.steampowered.com/search/?sort_by=Released_DESC&category1=998&os=win&supportedlang=english%2Crussian%2Cfinnish&filter=popularnew&ndl=1'
+STEAM_GAME_URL = 'https://store.steampowered.com/app/{}/'
+
 class Game:
-    def __init__(self, name, release_date, reviews_count, positive_reviews_percent, metacritic_score, price, img, url):
-        self.name = name
+    def __init__(self, title, release_date, metacritic_score, price, url):
+        self.title = title
         self.release_date = release_date
-        self.reviews_count = reviews_count
-        self.positive_reviews_percent = positive_reviews_percent
         self.metacritic_score = metacritic_score
         self.price = price
-        self.img = img
         self.url = url
 
-def find_games():
-    games = []
-    main_url = 'https://store.steampowered.com/search/?sort_by=Released_DESC&category1=998&os=win&supportedlang=english%2Crussian%2Cfinnish&filter=popularnew&ndl=1'
-
+def main():
     with webdriver.Chrome() as driver:
-        driver.get(main_url)
-        time.sleep(0.1)
-        soup = BeautifulSoup(driver.page_source, "html.parser")
+        add_birthday_cookie(driver)
+        games = [get_game_data(driver, game_id) for game_id in get_games_ids(driver)]
 
-        name_elements = soup.find_all("span", class_="title")
-        release_dates = soup.find_all("div", class_="col search_released responsive_secondrow")
-        game_elements = soup.find_all("span", class_="search_review_summary positive")
-        prices = soup.find_all("div", class_="col search_discount_and_price responsive_secondrow")
-        images = soup.find_all("div", class_="col search_capsule")
-        urls = soup.find_all('a', {'data-ds-appid': True})
+        save_to_json("public/data/games.json", games)
+        print(f'Games scraped ({len(games)} found)')
 
-        for name_element, release_date, game_element, price, image, url in zip(name_elements, release_dates, game_elements, prices, images, urls):
-            current_name = name_element.text
-            current_release_date = release_date.text
-            current_reviews_count = get_reviews_count(game_element["data-tooltip-html"])
-            current_positive_reviews_percent = get_positive_reviews_percent(game_element["data-tooltip-html"])
+def add_birthday_cookie(driver):
+    driver.get("https://store.steampowered.com")
+    cookie = {'name': 'birthtime', 'value': '0', 'path': '/', 'max-age': 315360000}
+    driver.add_cookie(cookie)
 
-            price_element = price.find("div", class_=["discount_final_price", "discount_final_price free"])
+def get_games_ids(driver):
+    soup = get_page_soup(driver, STEAM_SEARCH_URL)
+    return [game_element.get("data-ds-appid") for game_element in soup.find_all('a', {'data-ds-appid': True})]
 
-            if price_element and price_element.text == "Free":
-                current_price = 0.0
-            elif price_element:
-                current_price = float(price_element.text.replace('\u20ac', '').replace(',', '.'))
-            else:
-                current_price = 0.0
+def get_game_data(driver, game_id):
+    soup = get_page_soup(driver, f'{STEAM_GAME_URL.format(game_id)}')
 
-            current_image = image.find("img")["src"]
-            current_url = url.get("href")
+    title = get_text_content(soup, 'div.apphub_AppName') or "N/A"
+    release_date = get_text_content(soup, 'div.release_date div.date') or "N/A"
+    metacritic_score = get_text_content(soup, 'div#game_area_metascore div.score') or "N/A"
+    price = get_numeric_price(soup, 'div.game_purchase_price') or 0.0
+    url = f'https://store.steampowered.com/app/{game_id}/'
 
-            current_metacritic_score = get_metacritic_score(current_url, driver)
+    return Game(title, release_date, metacritic_score, price, url)
 
-            games.append(Game(current_name, current_release_date, current_reviews_count, current_positive_reviews_percent,
-                              current_metacritic_score, current_price, current_image, current_url))
-
-    return games
-
-
-def get_metacritic_score(game_url, driver):
-    driver.get(game_url)
-    time.sleep(0.1)
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-
-    metacritic_score_div = soup.find('div', {'id': "game_area_metascore"})
-
-    if metacritic_score_div:
-        metacritic_score = metacritic_score_div.find('div', class_="score high")
-
-        if metacritic_score:
-            return int(metacritic_score.text.strip())
-
-    return 0
-
-def get_reviews_count(value):
-    start_index = value.find("of the ") + len("of the ")
-    end_index = value.find(" user reviews")
-    reviews_count_str = value[start_index:end_index]
+def get_page_soup(driver, url):
+    driver.get(url)
     
-    return int(reviews_count_str.replace(',', ''))
+    return BeautifulSoup(driver.page_source, "html.parser")
 
-def get_positive_reviews_percent(value):
-    match = re.search(r'(\d+)%', value)
+def get_text_content(soup, selector):
+    element = soup.select_one(selector)
+    return element.text.strip() if element else None
+
+def get_numeric_price(soup, selector):
+    element = soup.select_one(selector)
+    raw_price_text = element.text.strip() if element else ""
     
-    return int(match.group(1))
+    if raw_price_text.lower() in ['free to play', 'free'] or not raw_price_text:
+        return 0
 
-def save_to_json(filename):
+    numeric_price = raw_price_text.split('€')[0].replace(',', '.')
+
+    try:
+        return float(numeric_price)
+    except ValueError:
+        return None
+
+def save_to_json(filename, game_list):
     with open(filename, 'w') as json_file:
         game_list_data = [vars(game) for game in game_list]
         json.dump(game_list_data, json_file, indent=2)
-       
         print(f"Games results saved to {filename}")
 
-game_list = find_games()
-
-save_to_json("public/data/games_results.json")
-
-print(f'Games scraped ({len(game_list)} found)')
+if __name__ == "__main__":
+    main()
