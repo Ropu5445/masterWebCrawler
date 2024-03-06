@@ -1,4 +1,3 @@
-import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -25,20 +24,18 @@ def Haku(url):
         price = prices[index]
         link = x['href']
         driverData = {
-            "index": index + 1,
             "title": title,
             "price": price.text.strip().replace('€', ''),
             "link": addLink + link
         }
         result.append(driverData)
-        index += 1
     driver.close()
     with open('public/data/verkkokauppa.json', 'w', encoding='utf-8') as json_file:
         json.dump(result, json_file, indent=2, ensure_ascii=False)
 
 def Start():
     while True:
-        maker = input("Valitse 1. Nvidia tai 2. Radeon: ")
+        maker = input("Valitse 1. Nvidia tai 2. Amd: ")
         if maker == "1":
             Haku(urlNvidia)
             break
