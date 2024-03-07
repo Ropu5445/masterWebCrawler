@@ -1,6 +1,8 @@
 const table = document.getElementById("data-table")
-const urlPattern = /(?:https?):\/\/(\w+:?\w*)?(\S+)(:\d+)?(\/|\/([\w#!:.?+=&%!\-\/]))?/;
 var jsonData
+
+const ASCENDING = 1;
+const DESCENDING = 2;
 
 async function fetchData(file) {
     try {
@@ -12,8 +14,46 @@ async function fetchData(file) {
     }
 }
 
-function handleData() {
-    removeAllChildNodes(table)
+function sortAsc(data, key) {
+    data = data.sort((a, b) => {
+        if (a[`${key}`] < b[`${key}`]) {
+          return -1;
+        }
+    });
+}
+
+function sortDesc(data, key) {
+    data = data.sort((a, b) => {
+        if (a[`${key}`] > b[`${key}`]) {
+          return -1;
+        }
+    });
+}
+
+async function sortedFetch(file, key, num) {
+    try {
+        const response = await fetch("../data/" + file);
+        jsonData = await response.json();
+
+        if (num == 1) {
+            sortAsc(jsonData, key);
+        }
+        else if (num == 2) {
+            sortDesc(jsonData, key);
+        }
+        else {
+            console.log(`Invalid method: ${num}`);
+            return -1;
+        }
+            
+        await handleData(file);
+    } catch(error) {
+        //pass
+    }
+}
+
+function handleData(file) {
+    removeAllChildNodes(table);
     
     let cols = Object.keys(jsonData[0]);
     let thead = document.createElement("thead");
@@ -22,8 +62,14 @@ function handleData() {
     
     cols.forEach((item) => {
         let th = document.createElement("th");
-        let modItem = item[0].toUpperCase() + item.slice(1)
-        th.innerText = modItem; // Set the column name as the text of the header cell
+        let modItem = item[0].toUpperCase() + item.slice(1);
+        let a = document.createElement("a");
+
+        a.setAttribute("onclick", `sortedFetch('${file}', '${item}', 1)`)
+        a.innerText = modItem; // Set the column name as the text of the header cell
+
+
+        th.appendChild(a);
         tr.appendChild(th); // Append the header cell to the header row
     });
     
@@ -44,6 +90,7 @@ function handleData() {
                 let a = document.createElement("a")
                 a.href = elem
                 a.innerText = "Mene sivulle"
+                a.target = "_blank"
                 td.appendChild(a)
             }
             else {
@@ -70,9 +117,9 @@ function addActiveOnClick(elem) {
     }
     // add 'active' classs to the element that was clicked
     elem.parentNode.classList.add('is-active');
+    elem.classList.add('has-background-primary');
+    elem.classList.add('has-text-white');
 }
-
-fetchData("test.json")
 
 const isValidUrl = urlString=> {
     var urlPattern = new RegExp('^(https?:\\/\\/)?'+ // validate protocol
@@ -83,3 +130,5 @@ const isValidUrl = urlString=> {
   '(\\#[-a-z\\d_]*)?$','i'); // validate fragment locator
 return !!urlPattern.test(urlString);
 }
+
+fetchData("cars.json")
