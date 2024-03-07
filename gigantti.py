@@ -26,10 +26,10 @@ def Haku(url, make):
         index += 1
         print(title)
         driver_data = {
-            "title": title.text.strip(),
-            "price": price.text.strip().replace('€', ''),
-            "link": addLink + link['href'],
-            "make": make,
+            "Tuote": title.text.strip(),
+            "Hinta": price.text.strip().replace('€', '').replace(',', '.'),
+            "Linkki": addLink + link['href'],
+            "Valmistaja": make,
         }
         result.append(driver_data)
 
