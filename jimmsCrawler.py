@@ -41,11 +41,10 @@ while True:
             break
 
         data = {
-                "id": i,
-                "make": 'Nvidia',
                 "name": driverName,
-                "link": driverLink,
                 "price": driverPrice,
+                "link": driverLink,
+                "make": 'Nvidia',
             }
         result.append(data)
         i += 1
@@ -87,11 +86,10 @@ while True:
             break
 
         data = {
-                "id": i,
-                "make": 'AMD',
                 "name": driverName,
-                "link": driverLink,
                 "price": driverPrice,
+                "link": driverLink,
+                "make": 'AMD',
             }
         result.append(data)
         i += 1
