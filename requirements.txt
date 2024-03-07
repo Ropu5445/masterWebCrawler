@@ -3,3 +3,4 @@ selenium
 requests
 cloudscraper
 numpy
+google-flight-analysis
