@@ -47,10 +47,10 @@ def Haku(url,Maker):
 
                     data = {
                         #"id": nayttis_lasku,
-                        "Name": driver_name,
-                        "Price": driver_price,
-                        "Link": driver_link,
-                        "Make" : Maker,
+                        "Nimi": driver_name,
+                        "Hinta €": float((driver_price.replace(",",".").replace(' ',''))),
+                        "Linkki": driver_link,
+                        "Merkki" : Maker,
                         
                     }
                     result.append(data)           
@@ -64,10 +64,11 @@ def Haku(url,Maker):
 
 Url_Nvidia ="https://www.proshop.fi/Naeytoenohjaimet?f~grafikkort_videoudganggrafikprocessorleverandor=nvidia-geforce-rtx-4070~nvidia-geforce-rtx-4070-super~nvidia-geforce-rtx-4070-ti~nvidia-geforce-rtx-4070-ti-super~nvidia-geforce-rtx-4080~nvidia-geforce-rtx-4090&inv=1&pre=0"
 Url_Amd = "https://www.proshop.fi/Naeytoenohjaimet?inv=1&pre=0&f~grafikkort_videoudganggrafikprocessorleverandor=amd-radeon-rx-7900-xt~amd-radeon-rx-7900-xtx"
+
 Result_Nvidia = Haku(Url_Nvidia,"Nvidia")
 Result_Amd = Haku(Url_Amd,"Amd",)
 Result_Final = np.hstack((Result_Nvidia, Result_Amd))
 Result_Final = Result_Final.tolist()
 
-with open('public/data/proshop.json', 'w') as json_file:
+with open('public/data/Proshop.json', 'w', encoding='utf-8') as json_file:
     json.dump(Result_Final, json_file, indent=4)
