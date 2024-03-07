@@ -51,7 +51,7 @@ while True:
         value += 1
     json_data = json.dumps(result, indent=4, ensure_ascii=False)
     print("Json successful")
-    with open('jimms.json', 'w', encoding='utf-8') as f:
+    with open('./public/data/jimms.json', 'w', encoding='utf-8') as f:
         f.write(json_data)
 
     next_pagelink = soup.find('a', class_='product-list__pagination')
@@ -96,7 +96,7 @@ while True:
         value += 1
     json_data = json.dumps(result, indent=4, ensure_ascii=False)
     print("Json successful")
-    with open('public/data/jimms.json', 'w', encoding='utf-8') as f:
+    with open('./public/data/jimms.json', 'w', encoding='utf-8') as f:
         f.write(json_data)
 
     next_pagelink = soup.find('a', class_='product-list__pagination')
