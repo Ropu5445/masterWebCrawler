@@ -1,9 +1,6 @@
 const table = document.getElementById("data-table")
 var jsonData
 
-const ASCENDING = 1;
-const DESCENDING = 2;
-
 async function fetchData(file) {
     try {
         const response = await fetch("../data/" + file);
