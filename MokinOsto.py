@@ -69,7 +69,7 @@ def checkMokki():
     tiedot = []
     
     for x in zip(*yhistetyt):
-        rivi={'Sijainti':x[0],'Linkit':x[1],'AsuntojenKoot':x[2],'Hinnat':x[3],}
+        rivi={'Sijainti':x[0],'Linkit':x[1],'Asuntojen Koot':x[2],'Hinnat':x[3],}
         tiedot.append(rivi)
         
     tiedot.pop()
