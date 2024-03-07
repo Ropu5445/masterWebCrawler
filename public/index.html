@@ -48,18 +48,24 @@
 					<a class="navbar-item" onclick="fetchData('cottages.json')">Lomakoheet</a>
 
 					<div class="navbar-item has-dropdown is-hoverable">
-						<a class="navbar-link">Matkakohteet</a>
+						<a class="navbar-link">Ulkomaanmatkat</a>
 						<div class="navbar-dropdown">
-							<a class="navbar-item" onclick="fetchData('ulkomaan.json')">Ulkomaan matkakohteet</a>
-							<a class="navbar-item" onclick="fetchData('kotimaanmatkat.json')">Kotimaan matkakohteet</a>
+							<a class="navbar-item" onclick="fetchData('ulkomaidenmatkatAST.json')">AST</a>
+							<a class="navbar-item" onclick="fetchData('ulkomaidenmatkatCND.json')">CND</a>
+							<a class="navbar-item" onclick="fetchData('ulkomaidenmatkatCOL.json')">COL</a>
+							<a class="navbar-item" onclick="fetchData('ulkomaidenmatkatFRN.json')">FRN</a>
+							<a class="navbar-item" onclick="fetchData('ulkomaidenmatkatSVT.json')">SVT</a>
 						</div>
 					</div>
+
+					<a class="navbar-item" onclick="fetchData('kotimaanmatkat.json')">Kotimaanmatkat</a>
 				</div>
 			</div>
 		</nav>
+
 		<div class="box mx-5 my-5">
 			<table class="table is-bordered is-striped is-fullwidth" id="data-table">
-				<!-- javascript created html comes here-->
+				<!-- javascript inserted html comes here-->
 			</table>
 		</div>
 	</body>

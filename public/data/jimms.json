@@ -1,926 +1,920 @@
 [
     {
-        "id": 1,
-        "make": "Nvidia",
         "name": "Gigabyte GeForce RTX 4070 WINDFORCE OC -näytönohjain, 12GB GDDR6X",
+        "price": "609,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191405&qty=1&ProductGuid=389e22d8-34ac-49aa-8ec4-9c9223bdc8e6",
-        "price": "629,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 2,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4060 VENTUS 2X BLACK OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193726&qty=1&ProductGuid=584a1044-9ae3-4d26-9dc9-bffdcd31b493",
-        "price": "339,90 €"
-    },
-    {
-        "id": 3,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 DUAL White - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=192677&qty=1&ProductGuid=ddc3df79-e76e-4921-b8ce-e9ad096b9adb",
-        "price": "629,90 €"
-    },
-    {
-        "id": 4,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4060 DUAL - OC Edition -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193706&qty=1&ProductGuid=8c725bec-2464-486e-9a72-8ab5895e2f0c",
-        "price": "359,90 €"
-    },
-    {
-        "id": 5,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4060 EAGLE OC -näytönohjain, 8GB GDDR6",
+        "name": "Gigabyte GeForce RTX 4060 EAGLE OC -näytönohjain, 8GB GDDR6 (Tarjous! Norm. 359,90€)",
+        "price": "339,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193742&qty=1&ProductGuid=4c2e7e0e-a038-49ff-a8a6-a9e0eb34f8ab",
-        "price": "359,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 6,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 DUAL - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=190850&qty=1&ProductGuid=0f8c2a9e-e8ee-43ca-a5d4-506631daa886",
-        "price": "619,90 €"
-    },
-    {
-        "id": 7,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4090 TUF Gaming - OC Edition -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185320&qty=1&ProductGuid=db8f13ee-f91e-481c-8931-28733a28dfaf",
-        "price": "2 249,90 €"
-    },
-    {
-        "id": 8,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4090 ROG Strix - OC Edition -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185318&qty=1&ProductGuid=40f11a19-6137-4857-aa84-d9a9273fc843",
-        "price": "2 349,90 €"
-    },
-    {
-        "id": 9,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 SUPER DUAL - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198337&qty=1&ProductGuid=61ea9076-83e7-4536-a785-179cdd67e74d",
-        "price": "699,90 €"
-    },
-    {
-        "id": 10,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 Ti ROG Strix - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187727&qty=1&ProductGuid=467f7422-e7f3-4141-bccf-9f5a026531a1",
-        "price": "1 039,90 €"
-    },
-    {
-        "id": 11,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 Ti TUF Gaming - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187728&qty=1&ProductGuid=12159f20-3813-441e-b2bb-5f1d1d57f222",
-        "price": "899,90 €"
-    },
-    {
-        "id": 12,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4060 Ti DUAL - OC Edition -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193037&qty=1&ProductGuid=8cb0e981-812c-4a94-807e-d99fb1180620",
-        "price": "469,90 €"
-    },
-    {
-        "id": 13,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 SUPER DUAL White - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198338&qty=1&ProductGuid=e313ce80-2a10-4c22-9005-bd602502e04a",
-        "price": "749,90 €"
-    },
-    {
-        "id": 14,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4090 TUF Gaming -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185577&qty=1&ProductGuid=40c6bd75-9217-41b8-aa8d-4d888e75ac97",
-        "price": "2 149,90 €"
-    },
-    {
-        "id": 15,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4060 Ti WINDFORCE OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194181&qty=1&ProductGuid=655e9a53-9403-4cd5-a8e8-d1628704bfe2",
-        "price": "459,90 €"
-    },
-    {
-        "id": 16,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4090 TUF Gaming OG - OC Edition -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193277&qty=1&ProductGuid=2b21451e-9c8c-4ecf-9c0a-00b65b41f95e",
-        "price": "2 199,90 €"
-    },
-    {
-        "id": 17,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 VENTUS 2X E OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195830&qty=1&ProductGuid=7187a927-4e81-4898-8c30-e6fd8874e16f",
-        "price": "639,90 €"
-    },
-    {
-        "id": 18,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 TUF Gaming - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=190848&qty=1&ProductGuid=331dba01-1a59-4a88-8e29-e896803aa0f0",
-        "price": "679,90 €"
-    },
-    {
-        "id": 19,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4060 WINDFORCE OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193743&qty=1&ProductGuid=87954959-7ef9-4e5e-825c-348216fefa91",
-        "price": "339,90 €"
-    },
-    {
-        "id": 20,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK OC -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194335&qty=1&ProductGuid=423af086-07ff-406a-beab-46b33e83bcb6",
-        "price": "519,90 €"
-    },
-    {
-        "id": 21,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4090 VENTUS 3X E OC -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196187&qty=1&ProductGuid=9077ffa5-6bf7-4c3e-8e27-ac5af83f67cb",
-        "price": "2 099,90 €"
-    },
-    {
-        "id": 22,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193023&qty=1&ProductGuid=ad31820a-e8bf-4609-a477-d400ed4d60cb",
-        "price": "459,90 €"
-    },
-    {
-        "id": 23,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4070 GAMING OC V2 -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198812&qty=1&ProductGuid=c6e98265-aec3-4213-a885-85f81178eae1",
-        "price": "679,90 €"
-    },
-    {
-        "id": 24,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4090 ROG Strix White - OC Edition -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188118&qty=1&ProductGuid=a0bf6dfb-1916-4a3a-b17b-7657b32a0194",
-        "price": "2 399,90 €"
-    },
-    {
-        "id": 25,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4090 WINDFORCE V2 -näytönohjain, 24GB GDDR6X (Tarjous! Norm. 2119,90€)",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193651&qty=1&ProductGuid=0441ee4c-c804-4aee-a937-247fa9e164a5",
-        "price": "1 999,90 €"
-    },
-    {
-        "id": 26,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 ProArt - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195518&qty=1&ProductGuid=41071bd7-3653-4257-a35f-a426a27e8157",
-        "price": "639,90 €"
-    },
-    {
-        "id": 27,
-        "make": "Nvidia",
         "name": "MSI GeForce RTX 4070 SUPER VENTUS 2X OC -näytönohjain, 12GB GDDR6X",
+        "price": "689,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198817&qty=1&ProductGuid=016cbb23-537e-48fb-ad8d-416225f2ff26",
-        "price": "689,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 28,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 Ti SUPER ROG Strix - OC Edition -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198343&qty=1&ProductGuid=10fd6e2a-78da-4add-a826-41a7e7f014a9",
-        "price": "1 129,90 €"
+        "name": "MSI GeForce RTX 4060 VENTUS 2X BLACK OC -näytönohjain, 8GB GDDR6",
+        "price": "339,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193726&qty=1&ProductGuid=584a1044-9ae3-4d26-9dc9-bffdcd31b493",
+        "make": "Nvidia"
     },
     {
-        "id": 29,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4070 Ti SUPER EX Gamer 1-Click OC -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199633&qty=1&ProductGuid=35b9bd05-2a90-4cad-9b42-12302b9e16a7",
-        "price": "959,90 €"
+        "name": "Asus GeForce RTX 4070 DUAL White - OC Edition -näytönohjain, 12GB GDDR6X (Tarjous! Norm. 629,90€)",
+        "price": "599,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=192677&qty=1&ProductGuid=ddc3df79-e76e-4921-b8ce-e9ad096b9adb",
+        "make": "Nvidia"
     },
     {
-        "id": 30,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 Ti SUPER TUF Gaming - OC Edition -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199180&qty=1&ProductGuid=93654f83-41ba-4b9a-8961-f3cad138e27e",
-        "price": "1 019,90 €"
+        "name": "Asus GeForce RTX 4070 SUPER DUAL - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "699,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198337&qty=1&ProductGuid=61ea9076-83e7-4536-a785-179cdd67e74d",
+        "make": "Nvidia"
     },
     {
-        "id": 31,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 VENTUS 2X WHITE OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195782&qty=1&ProductGuid=26594bca-628d-44ac-9e3a-3c417caeba76",
-        "price": "649,90 €"
+        "name": "Asus GeForce RTX 4070 DUAL - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "619,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=190850&qty=1&ProductGuid=0f8c2a9e-e8ee-43ca-a5d4-506631daa886",
+        "make": "Nvidia"
     },
     {
-        "id": 32,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4060 Ti DUAL White - OC Edition -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193272&qty=1&ProductGuid=1a915967-b522-4d8a-ad76-6a22b724d273",
-        "price": "489,90 €"
+        "name": "Asus GeForce RTX 4060 DUAL - OC Edition -näytönohjain, 8GB GDDR6",
+        "price": "359,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193706&qty=1&ProductGuid=8c725bec-2464-486e-9a72-8ab5895e2f0c",
+        "make": "Nvidia"
     },
     {
-        "id": 33,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 SUPER VENTUS 2X WHITE OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198818&qty=1&ProductGuid=49b75f3c-8fd7-47e2-bcc7-44690c910c0a",
-        "price": "719,90 €"
-    },
-    {
-        "id": 34,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4070 GAMING OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191403&qty=1&ProductGuid=a0700dd8-c7ad-46c7-942e-828adcf50afb",
-        "price": "679,90 €"
-    },
-    {
-        "id": 35,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 Ti TUF Gaming -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187729&qty=1&ProductGuid=30312da7-81e3-4a88-9ac6-d16b7dcb9fcf",
-        "price": "879,90 €"
-    },
-    {
-        "id": 36,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 Ti SUPER VENTUS 2X WHITE OC -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198822&qty=1&ProductGuid=488a43af-ac48-4690-a1bd-f0590cede869",
-        "price": "949,90 €"
-    },
-    {
-        "id": 37,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4080 ROG Strix White - OC Edition -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188138&qty=1&ProductGuid=3f76bafd-aa89-46ec-a253-c6dc256e5e47",
-        "price": "1 399,90 €"
-    },
-    {
-        "id": 38,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4070 SUPER 1-Click OC 2X -näytönohjain, 12GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199632&qty=1&ProductGuid=7ce2887b-7633-4e02-86e7-012aa455302b",
-        "price": "679,90 €"
-    },
-    {
-        "id": 39,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 GAMING X SLIM -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194760&qty=1&ProductGuid=97149ea9-749b-4856-8750-fea8cb090cad",
-        "price": "709,90 €"
-    },
-    {
-        "id": 40,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4070 Ti GAMING OC V2 -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196059&qty=1&ProductGuid=72191c1b-e690-4942-8dd7-dd73e9bdd82a",
-        "price": "949,90 €"
-    },
-    {
-        "id": 41,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4080 SUPER SG 1-Click OC -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200188&qty=1&ProductGuid=db9f2af4-2671-407e-893c-8bf1a67ce65c",
-        "price": "1 299,90 €"
-    },
-    {
-        "id": 42,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4070 EX Gamer Pink -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191847&qty=1&ProductGuid=2e95089d-0334-4a9e-91df-f7b1605eac6b",
-        "price": "619,90 €"
-    },
-    {
-        "id": 43,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4060 Ti DUAL - OC Edition -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194412&qty=1&ProductGuid=2f0b524f-e030-4e6a-96d0-798c6629685a",
-        "price": "539,90 €"
-    },
-    {
-        "id": 44,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4070 Ti AERO OC V2 -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193984&qty=1&ProductGuid=d23bf5a1-8247-40c6-a1ed-e98b3deddf13",
-        "price": "969,90 €"
-    },
-    {
-        "id": 45,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4090 GAMING OC -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185130&qty=1&ProductGuid=a6ee1309-46bb-4252-8f35-2af6e56d7aa1",
-        "price": "2 179,90 €"
-    },
-    {
-        "id": 46,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4070 EX Gamer -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191845&qty=1&ProductGuid=f88c2d46-2719-4451-9193-c9964c699b74",
-        "price": "599,90 €"
-    },
-    {
-        "id": 47,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 VENTUS 3X E OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194618&qty=1&ProductGuid=6f516f1a-b36b-47a2-9d5d-dbd639c1dde0",
-        "price": "639,90 €"
-    },
-    {
-        "id": 48,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 GAMING X SLIM WHITE -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196992&qty=1&ProductGuid=39d47283-bb08-4285-8472-28a00a984a31",
-        "price": "709,90 €"
-    },
-    {
-        "id": 49,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4060 Ti EX 1-Click OC -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194752&qty=1&ProductGuid=1e9b5edb-4285-4c24-9fd3-533d6c1f5b04",
-        "price": "499,90 €"
-    },
-    {
-        "id": 50,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4090 AERO OC -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=197017&qty=1&ProductGuid=95804984-8251-480c-9007-10fceb9bf7c1",
-        "price": "2 219,90 €"
-    },
-    {
-        "id": 51,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4060 Ti AERO OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193184&qty=1&ProductGuid=09c8b23e-fe07-4926-a77f-f909e66ec45c",
-        "price": "509,90 €"
-    },
-    {
-        "id": 52,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4060 Ti EX 1-Click OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194749&qty=1&ProductGuid=2ffd13ba-eba0-479c-8d85-df06f557a704",
-        "price": "449,90 €"
-    },
-    {
-        "id": 53,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4060 GAMING OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193740&qty=1&ProductGuid=5966033b-81e3-42ca-8fb8-d3524549c194",
-        "price": "379,90 €"
-    },
-    {
-        "id": 54,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4070 Ti SUPER GAMING OC -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199089&qty=1&ProductGuid=eadb1af1-a976-40ea-bd75-072e91b2b40f",
-        "price": "999,90 €"
-    },
-    {
-        "id": 55,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4070 Ti EX Gamer -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=190540&qty=1&ProductGuid=797633d4-a482-4371-94bd-3f7169d747d6",
-        "price": "839,90 €"
-    },
-    {
-        "id": 56,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 Ti SUPER TUF Gaming White - OC Edition -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198833&qty=1&ProductGuid=29ca3163-b37f-4846-acb4-65db01a184d9",
-        "price": "1 029,90 €"
-    },
-    {
-        "id": 57,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4060 Ti GAMING X SLIM -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194332&qty=1&ProductGuid=5f6321a9-33f9-4ac4-a888-d153beeeb271",
-        "price": "579,90 €"
-    },
-    {
-        "id": 58,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4060 Ti GAMING X SLIM WHITE -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195444&qty=1&ProductGuid=32ee26f2-2381-485c-b9f1-d89b7068332d",
-        "price": "579,90 €"
-    },
-    {
-        "id": 59,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 SUPER GAMING X SLIM WHITE -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198820&qty=1&ProductGuid=ab658780-2011-4bbf-b8f7-db402793426a",
-        "price": "799,90 €"
-    },
-    {
-        "id": 60,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4060 Ti AERO OC -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194414&qty=1&ProductGuid=fddf6f51-724d-4ae1-b242-8a63790805aa",
-        "price": "599,90 €"
-    },
-    {
-        "id": 61,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4090 ROG Strix - OC EVA-02 Edition -näytönohjain, 24GB GDDR6X (Tarjous! Norm. 2699,90€)",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195291&qty=1&ProductGuid=b469a505-1f60-4da4-a0dc-850d7c0159f7",
-        "price": "2 549,90 €"
-    },
-    {
-        "id": 62,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 SUPER ROG Strix -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199184&qty=1&ProductGuid=d6053e59-c3e4-4706-b5a6-baaebd3e43fd",
-        "price": "869,90 €"
-    },
-    {
-        "id": 63,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4060 AERO OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193741&qty=1&ProductGuid=e5b37a7d-0f71-4ef2-bdf1-bfd4e5f5918e",
-        "price": "389,90 €"
-    },
-    {
-        "id": 64,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4070 SUPER GAMING OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199084&qty=1&ProductGuid=5ae5e280-ca23-41c7-afb7-208c0ee289db",
-        "price": "749,90 €"
-    },
-    {
-        "id": 65,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4090 AORUS MASTER -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185563&qty=1&ProductGuid=2ccca2d0-eeeb-47f7-a9da-13a634d3a815",
-        "price": "2 249,90 €"
-    },
-    {
-        "id": 66,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4060 EX White 1-Click OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194744&qty=1&ProductGuid=cffc353c-f1bd-4d4d-8e65-331935499d68",
-        "price": "349,90 €"
-    },
-    {
-        "id": 67,
-        "make": "Nvidia",
-        "name": "KFA2 GeForce RTX 4060 Ti EX White 1-Click OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194750&qty=1&ProductGuid=e9d63640-5108-4413-8eea-e08f8c853684",
-        "price": "469,90 €"
-    },
-    {
-        "id": 68,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195446&qty=1&ProductGuid=2f5c421c-b829-49e4-8c46-d2226fd71410",
-        "price": "929,90 €"
-    },
-    {
-        "id": 69,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4070 Ti WINDFORCE OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193467&qty=1&ProductGuid=0d285f46-f8ac-4e4a-9980-646cb2a25900",
-        "price": "899,90 €"
-    },
-    {
-        "id": 70,
-        "make": "Nvidia",
         "name": "Gigabyte GeForce RTX 4060 Ti WINDFORCE OC -näytönohjain, 16GB GDDR6",
+        "price": "509,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196276&qty=1&ProductGuid=c53b9550-6acf-41bd-aab3-1f6772df5d46",
-        "price": "499,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 71,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 Ti VENTUS 3X E1 OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196356&qty=1&ProductGuid=de584f10-0562-463a-be99-60f3a16124af",
-        "price": "899,90 €"
+        "name": "Asus GeForce RTX 4060 Ti DUAL - OC Edition -näytönohjain, 8GB GDDR6",
+        "price": "459,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193037&qty=1&ProductGuid=8cb0e981-812c-4a94-807e-d99fb1180620",
+        "make": "Nvidia"
     },
     {
-        "id": 72,
-        "make": "Nvidia",
+        "name": "Asus GeForce RTX 4070 Ti SUPER TUF Gaming - OC Edition -näytönohjain, 16GB GDDR6X",
+        "price": "999,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199180&qty=1&ProductGuid=93654f83-41ba-4b9a-8961-f3cad138e27e",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4090 VENTUS 3X E OC -näytönohjain, 24GB GDDR6X (Tarjous! Norm. 1999,90€)",
+        "price": "1 899,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196187&qty=1&ProductGuid=9077ffa5-6bf7-4c3e-8e27-ac5af83f67cb",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 Ti ROG Strix - OC Edition -näytönohjain, 12GB GDDR6X (Tarjous! Norm. 1039,90€)",
+        "price": "929,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187727&qty=1&ProductGuid=467f7422-e7f3-4141-bccf-9f5a026531a1",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4090 TUF Gaming - OC Edition -näytönohjain, 24GB GDDR6X",
+        "price": "2 079,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185320&qty=1&ProductGuid=db8f13ee-f91e-481c-8931-28733a28dfaf",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 SUPER DUAL White - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "749,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198338&qty=1&ProductGuid=e313ce80-2a10-4c22-9005-bd602502e04a",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 Ti WINDFORCE OC -näytönohjain, 8GB GDDR6",
+        "price": "459,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194181&qty=1&ProductGuid=655e9a53-9403-4cd5-a8e8-d1628704bfe2",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 SUPER DUAL -näytönohjain, 12GB GDDR6X",
+        "price": "689,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198336&qty=1&ProductGuid=1db801e1-a781-4fa4-b33c-c2034b8bd044",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 SUPER VENTUS 2X WHITE OC -näytönohjain, 12GB GDDR6X",
+        "price": "719,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198818&qty=1&ProductGuid=49b75f3c-8fd7-47e2-bcc7-44690c910c0a",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 VENTUS 2X E OC -näytönohjain, 12GB GDDR6X",
+        "price": "619,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195830&qty=1&ProductGuid=7187a927-4e81-4898-8c30-e6fd8874e16f",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4090 TUF Gaming OG - OC Edition -näytönohjain, 24GB GDDR6X",
+        "price": "2 049,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193277&qty=1&ProductGuid=2b21451e-9c8c-4ecf-9c0a-00b65b41f95e",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 Ti TUF Gaming - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "899,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187728&qty=1&ProductGuid=12159f20-3813-441e-b2bb-5f1d1d57f222",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4090 ROG Strix - OC Edition -näytönohjain, 24GB GDDR6X (Tarjous! Norm. 2299,90€)",
+        "price": "2 149,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185318&qty=1&ProductGuid=40f11a19-6137-4857-aa84-d9a9273fc843",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK OC -näytönohjain, 16GB GDDR6",
+        "price": "519,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194335&qty=1&ProductGuid=423af086-07ff-406a-beab-46b33e83bcb6",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 SUPER EAGLE OC -näytönohjain, 12GB GDDR6X",
+        "price": "729,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199085&qty=1&ProductGuid=da8a3fca-add6-44c7-87cd-f906c93e90a0",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4060 Ti DUAL - OC Edition -näytönohjain, 16GB GDDR6",
+        "price": "529,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194412&qty=1&ProductGuid=2f0b524f-e030-4e6a-96d0-798c6629685a",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 SUPER GAMING OC -näytönohjain, 12GB GDDR6X",
+        "price": "749,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199084&qty=1&ProductGuid=5ae5e280-ca23-41c7-afb7-208c0ee289db",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4060 Ti 2X 1-Click OC -näytönohjain, 8GB GDDR6",
+        "price": "429,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194745&qty=1&ProductGuid=4f71e23f-156d-4928-a321-9a09470685f4",
+        "make": "Nvidia"
+    },
+    {
         "name": "MSI GeForce RTX 4090 SUPRIM LIQUID X -näytönohjain, 24GB GDDR6X",
+        "price": "2 249,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185540&qty=1&ProductGuid=b2fdc849-1c4c-4b05-8099-51c216006d54",
-        "price": "2 249,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 73,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4070 Ti SUPRIM X -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188066&qty=1&ProductGuid=31421c64-3609-4073-b1e0-ae792176fb9f",
-        "price": "999,90 €"
+        "name": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK OC -näytönohjain, 8GB GDDR6",
+        "price": "459,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193023&qty=1&ProductGuid=ad31820a-e8bf-4609-a477-d400ed4d60cb",
+        "make": "Nvidia"
     },
     {
-        "id": 74,
-        "make": "Nvidia",
-        "name": "MSI GeForce RTX 4090 SUPRIM X -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185541&qty=1&ProductGuid=e14f637d-f7ca-4eaa-9ff1-0cd3c3faddf0",
-        "price": "2 249,90 €"
+        "name": "Asus GeForce RTX 4070 SUPER DUAL EVO -näytönohjain, 12GB GDDR6X",
+        "price": "699,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200772&qty=1&ProductGuid=7da7c738-c374-4827-a5fc-bed833ef7724",
+        "make": "Nvidia"
     },
     {
-        "id": 75,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4090 TUF Gaming OG -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193278&qty=1&ProductGuid=9947eabd-50a7-439e-a787-7204841fea8c",
-        "price": "2 149,90 €"
+        "name": "Asus GeForce RTX 4070 Ti SUPER TUF Gaming White - OC Edition -näytönohjain, 16GB GDDR6X",
+        "price": "1 019,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198833&qty=1&ProductGuid=29ca3163-b37f-4846-acb4-65db01a184d9",
+        "make": "Nvidia"
     },
     {
-        "id": 76,
-        "make": "Nvidia",
-        "name": "Asus GeForce RTX 4070 Ti ProArt - OC Edition -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=192370&qty=1&ProductGuid=3085be80-bed2-40f4-8bf8-249433b785a4",
-        "price": "859,90 €"
+        "name": "MSI GeForce RTX 4070 VENTUS 2X WHITE OC -näytönohjain, 12GB GDDR6X",
+        "price": "649,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195782&qty=1&ProductGuid=26594bca-628d-44ac-9e3a-3c417caeba76",
+        "make": "Nvidia"
     },
     {
-        "id": 77,
-        "make": "Nvidia",
+        "name": "Asus GeForce RTX 4090 ROG Strix White - OC Edition -näytönohjain, 24GB GDDR6X",
+        "price": "2 349,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188118&qty=1&ProductGuid=a0bf6dfb-1916-4a3a-b17b-7657b32a0194",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 Ti SUPER ProArt - OC Edition -näytönohjain, 16GB GDDR6X",
+        "price": "989,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199178&qty=1&ProductGuid=688d4a4c-35f9-4745-bb5b-00617fd7180d",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 ProArt - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "639,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195518&qty=1&ProductGuid=41071bd7-3653-4257-a35f-a426a27e8157",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4090 GAMING X SLIM -näytönohjain, 24GB GDDR6X",
+        "price": "2 119,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195784&qty=1&ProductGuid=36120848-9c72-4c27-a5a7-d895ca22cd88",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 SUPER ProArt - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "789,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200206&qty=1&ProductGuid=a2fa7049-d243-4d44-b642-8f340b283331",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 TUF Gaming - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "679,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=190848&qty=1&ProductGuid=331dba01-1a59-4a88-8e29-e896803aa0f0",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 SUPER GAMING X SLIM -näytönohjain, 12GB GDDR6X",
+        "price": "769,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198819&qty=1&ProductGuid=a1c898e3-6dd7-4968-aec0-1a57182e7c68",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4090 TUF Gaming -näytönohjain, 24GB GDDR6X (Tarjous! Norm. 1999,90€)",
+        "price": "1 899,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185577&qty=1&ProductGuid=40c6bd75-9217-41b8-aa8d-4d888e75ac97",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 Ti SUPER ROG Strix - OC Edition -näytönohjain, 16GB GDDR6X",
+        "price": "1 129,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198343&qty=1&ProductGuid=10fd6e2a-78da-4add-a826-41a7e7f014a9",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4080 SUPER ST 1-Click OC -näytönohjain, 16GB GDDR6X",
+        "price": "1 249,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200186&qty=1&ProductGuid=2e33a245-a6bc-4155-a75b-e4cb9fe693cf",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 GAMING OC -näytönohjain, 8GB GDDR6",
+        "price": "379,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193740&qty=1&ProductGuid=5966033b-81e3-42ca-8fb8-d3524549c194",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4060 Ti DUAL White - OC Edition -näytönohjain, 8GB GDDR6",
+        "price": "489,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193272&qty=1&ProductGuid=1a915967-b522-4d8a-ad76-6a22b724d273",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 Ti SUPER GAMING X SLIM -näytönohjain, 16GB GDDR6X",
+        "price": "999,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198823&qty=1&ProductGuid=0d0e8764-097c-46f3-a1a6-a724de462300",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 GAMING OC -näytönohjain, 12GB GDDR6X",
+        "price": "649,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191403&qty=1&ProductGuid=a0700dd8-c7ad-46c7-942e-828adcf50afb",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 SUPER ROG Strix - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "879,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198340&qty=1&ProductGuid=5606703c-7202-4176-8f2d-79bc38d94a92",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 Ti GAMING OC V2 -näytönohjain, 12GB GDDR6X",
+        "price": "899,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196059&qty=1&ProductGuid=72191c1b-e690-4942-8dd7-dd73e9bdd82a",
+        "make": "Nvidia"
+    },
+    {
         "name": "Gigabyte GeForce RTX 4070 SUPER AERO OC -näytönohjain, 12GB GDDR6X",
+        "price": "769,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199083&qty=1&ProductGuid=6d781bef-ac85-44d4-8c3a-2006c5161c43",
-        "price": "769,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 78,
-        "make": "Nvidia",
-        "name": "Gigabyte GeForce RTX 4070 AERO OC -näytönohjain, 12GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191402&qty=1&ProductGuid=dec0da16-bf68-4be0-bbd8-c85bb2c4af84",
-        "price": "719,90 €"
+        "name": "Gigabyte GeForce RTX 4060 Ti EAGLE OC ICE -näytönohjain, 8GB GDDR6",
+        "price": "489,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199785&qty=1&ProductGuid=be2fe69c-57fc-407d-b86c-5d8b16f91bca",
+        "make": "Nvidia"
     },
     {
-        "id": 79,
-        "make": "Nvidia",
+        "name": "Gigabyte GeForce RTX 4070 Ti SUPER GAMING OC -näytönohjain, 16GB GDDR6X",
+        "price": "999,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199089&qty=1&ProductGuid=eadb1af1-a976-40ea-bd75-072e91b2b40f",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4080 ROG Strix White - OC Edition -näytönohjain, 16GB GDDR6X",
+        "price": "1 399,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188138&qty=1&ProductGuid=3f76bafd-aa89-46ec-a253-c6dc256e5e47",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Palit GeForce RTX 4070 SUPER Dual -näytönohjain, 12GB GDDR6",
+        "price": "679,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=201069&qty=1&ProductGuid=b879eddc-0805-432a-97e0-d7d5c652b856",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 EAGLE OC ICE -näytönohjain, 8GB GDDR6",
+        "price": "369,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199786&qty=1&ProductGuid=42f84856-5c46-4084-98a7-7a9ae54ca696",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4090 GAMING OC -näytönohjain, 24GB GDDR6X",
+        "price": "2 099,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185130&qty=1&ProductGuid=a6ee1309-46bb-4252-8f35-2af6e56d7aa1",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 Ti AERO OC V2 -näytönohjain, 12GB GDDR6X",
+        "price": "929,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193984&qty=1&ProductGuid=d23bf5a1-8247-40c6-a1ed-e98b3deddf13",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 GAMING X SLIM -näytönohjain, 12GB GDDR6X",
+        "price": "709,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194760&qty=1&ProductGuid=97149ea9-749b-4856-8750-fea8cb090cad",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 GAMING X SLIM WHITE -näytönohjain, 12GB GDDR6X",
+        "price": "709,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196992&qty=1&ProductGuid=39d47283-bb08-4285-8472-28a00a984a31",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 Ti SUPER GAMING X SLIM WHITE -näytönohjain, 16GB GDDR6X",
+        "price": "1 029,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198824&qty=1&ProductGuid=29a790eb-64ac-465f-937f-acf772a20e9e",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 SUPER WINDFORCE OC -näytönohjain, 12GB GDDR6X",
+        "price": "689,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199086&qty=1&ProductGuid=900bc12c-d53e-4800-9152-d60b4b5d5ba2",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4090 AERO OC -näytönohjain, 24GB GDDR6X",
+        "price": "2 129,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=197017&qty=1&ProductGuid=95804984-8251-480c-9007-10fceb9bf7c1",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 AERO OC -näytönohjain, 8GB GDDR6",
+        "price": "389,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193741&qty=1&ProductGuid=e5b37a7d-0f71-4ef2-bdf1-bfd4e5f5918e",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 SUPER EAGLE OC ICE -näytönohjain, 12GB GDDR6X",
+        "price": "739,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199787&qty=1&ProductGuid=5bb5b6d1-e21b-437a-9ad9-0a85082e1a3c",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4070 EX Gamer Pink -näytönohjain, 12GB GDDR6X",
+        "price": "619,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191847&qty=1&ProductGuid=2e95089d-0334-4a9e-91df-f7b1605eac6b",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 Ti AERO OC -näytönohjain, 8GB GDDR6",
+        "price": "509,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193184&qty=1&ProductGuid=09c8b23e-fe07-4926-a77f-f909e66ec45c",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4060 Ti EX 1-Click OC -näytönohjain, 8GB GDDR6",
+        "price": "449,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194749&qty=1&ProductGuid=2ffd13ba-eba0-479c-8d85-df06f557a704",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4070 SUPER 1-Click OC 2X -näytönohjain, 12GB GDDR6",
+        "price": "679,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199632&qty=1&ProductGuid=7ce2887b-7633-4e02-86e7-012aa455302b",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4070 Ti SUPER EX Gamer 1-Click OC -näytönohjain, 16GB GDDR6",
+        "price": "959,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199633&qty=1&ProductGuid=35b9bd05-2a90-4cad-9b42-12302b9e16a7",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 WINDFORCE OC -näytönohjain, 8GB GDDR6",
+        "price": "339,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193743&qty=1&ProductGuid=87954959-7ef9-4e5e-825c-348216fefa91",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 SUPER AORUS MASTER -näytönohjain, 12GB GDDR6X",
+        "price": "799,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199082&qty=1&ProductGuid=2f58a2a9-7c85-48fe-acfe-5db5b9a7a154",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 Ti SUPER VENTUS 2X WHITE OC -näytönohjain, 16GB GDDR6X",
+        "price": "949,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198822&qty=1&ProductGuid=488a43af-ac48-4690-a1bd-f0590cede869",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 VENTUS 3X E OC -näytönohjain, 12GB GDDR6X",
+        "price": "639,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194618&qty=1&ProductGuid=6f516f1a-b36b-47a2-9d5d-dbd639c1dde0",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 Ti SUPER BTF TUF Gaming White - OC Edition -näytönohjain, 16GB GDDR6X",
+        "price": "1 059,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199154&qty=1&ProductGuid=99d848b7-dce4-4bc9-97de-a57e51595d0d",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 Ti SUPER VENTUS 2X OC -näytönohjain, 16GB GDDR6X",
+        "price": "919,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198821&qty=1&ProductGuid=71e32879-c221-4afe-8cd6-5201247cee5c",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4090 WINDFORCE V2 -näytönohjain, 24GB GDDR6X",
+        "price": "2 049,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193651&qty=1&ProductGuid=0441ee4c-c804-4aee-a937-247fa9e164a5",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 GAMING OC V2 -näytönohjain, 12GB GDDR6X",
+        "price": "649,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198812&qty=1&ProductGuid=c6e98265-aec3-4213-a885-85f81178eae1",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 Ti AERO OC -näytönohjain, 16GB GDDR6",
+        "price": "599,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194414&qty=1&ProductGuid=fddf6f51-724d-4ae1-b242-8a63790805aa",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 Ti SUPER EAGLE OC ICE -näytönohjain, 16GB GDDR6X",
+        "price": "989,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199788&qty=1&ProductGuid=c63b74f2-9ee2-4cf9-bd9b-517cde168bab",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 Ti SUPER AERO OC -näytönohjain, 16GB GDDR6X",
+        "price": "1 019,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199088&qty=1&ProductGuid=fd610db1-f95f-4c17-9e7b-aee60a3159d3",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4070 Ti EX Gamer -näytönohjain, 12GB GDDR6X",
+        "price": "839,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=190540&qty=1&ProductGuid=797633d4-a482-4371-94bd-3f7169d747d6",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4060 Ti EX 1-Click OC -näytönohjain, 16GB GDDR6",
+        "price": "499,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194752&qty=1&ProductGuid=1e9b5edb-4285-4c24-9fd3-533d6c1f5b04",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4090 ROG Strix - OC EVA-02 Edition -näytönohjain, 24GB GDDR6X",
+        "price": "2 549,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195291&qty=1&ProductGuid=b469a505-1f60-4da4-a0dc-850d7c0159f7",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 Ti SUPER AORUS MASTER -näytönohjain, 16GB GDDR6X",
+        "price": "1 059,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199087&qty=1&ProductGuid=16a04266-2518-4af4-b968-f9fcc3e65794",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4060 Ti GAMING X SLIM WHITE -näytönohjain, 16GB GDDR6",
+        "price": "579,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195444&qty=1&ProductGuid=32ee26f2-2381-485c-b9f1-d89b7068332d",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4060 Ti GAMING X SLIM -näytönohjain, 16GB GDDR6",
+        "price": "579,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194332&qty=1&ProductGuid=5f6321a9-33f9-4ac4-a888-d153beeeb271",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 SUPER GAMING X SLIM WHITE -näytönohjain, 12GB GDDR6X",
+        "price": "799,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198820&qty=1&ProductGuid=ab658780-2011-4bbf-b8f7-db402793426a",
+        "make": "Nvidia"
+    },
+    {
+        "name": "KFA2 GeForce RTX 4060 Ti EX White 1-Click OC -näytönohjain, 8GB GDDR6",
+        "price": "469,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194750&qty=1&ProductGuid=e9d63640-5108-4413-8eea-e08f8c853684",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4080 SUPER GAMING OC -näytönohjain, 16GB GDDR6X",
+        "price": "1 229,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199167&qty=1&ProductGuid=39bc827f-3c17-4ea5-8895-4e9b9a39093c",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 SUPER ROG Strix -näytönohjain, 12GB GDDR6X",
+        "price": "869,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199184&qty=1&ProductGuid=d6053e59-c3e4-4706-b5a6-baaebd3e43fd",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4070 SUPER TUF Gaming - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "789,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198339&qty=1&ProductGuid=743de3f7-98cd-466e-90e8-1c6301ce318b",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4080 SUPER ROG Strix White - OC Edition -näytönohjain, 16GB GDDR6X",
+        "price": "1 399,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199176&qty=1&ProductGuid=716f4737-196e-4309-92d5-0976b359b1c1",
+        "make": "Nvidia"
+    },
+    {
+        "name": "MSI GeForce RTX 4070 Ti SUPRIM X -näytönohjain, 12GB GDDR6X",
+        "price": "899,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188066&qty=1&ProductGuid=31421c64-3609-4073-b1e0-ae792176fb9f",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 Ti GAMING OC -näytönohjain, 16GB GDDR6",
+        "price": "584,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194416&qty=1&ProductGuid=9e156cd5-1621-49a8-88f4-96b3838b3fdb",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Asus GeForce RTX 4090 ROG Strix -näytönohjain, 24GB GDDR6X",
+        "price": "2 129,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=186261&qty=1&ProductGuid=97eea071-e280-49b8-9ae0-74ccea187395",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4090 AORUS MASTER -näytönohjain, 24GB GDDR6X",
+        "price": "2 209,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=185563&qty=1&ProductGuid=2ccca2d0-eeeb-47f7-a9da-13a634d3a815",
+        "make": "Nvidia"
+    },
+    {
         "name": "Gigabyte GeForce RTX 4090 XTREME WATERFORCE -näytönohjain, 24GB GDDR6X",
+        "price": "2 299,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188293&qty=1&ProductGuid=ee5aebb2-4f8b-4dfa-a585-f0c45c8f8a4a",
-        "price": "2 299,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 80,
-        "make": "Nvidia",
-        "name": "Gigabyte (Outlet) GeForce RTX 4090 GAMING OC -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191728&qty=1&ProductGuid=602628bf-52c3-4ae4-ae33-658b35d5c75c",
-        "price": "2 070,90 €"
-    },
-    {
-        "id": 81,
-        "make": "Nvidia",
-        "name": "MSI (Outlet) GeForce RTX 4090 SUPRIM X -näytönohjain, 24GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=196830&qty=1&ProductGuid=d4f95236-8abf-4d8e-a8d9-cde669f8b40a",
-        "price": "2 149,90 €"
-    },
-    {
-        "id": 82,
-        "make": "Nvidia",
         "name": "MSI GeForce RTX 4070 GAMING SLIM WHITE -näytönohjain, 12GB GDDR6X",
+        "price": "689,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=197015&qty=1&ProductGuid=961c1e5b-5841-4b79-88f7-6065298c4992",
-        "price": "689,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 83,
-        "make": "Nvidia",
+        "name": "MSI (Outlet) GeForce RTX 4090 GAMING X TRIO -näytönohjain, 24GB GDDR6X",
+        "price": "1 949,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199540&qty=1&ProductGuid=fbc0cb6d-7bf1-40e1-93f0-c46030974706",
+        "make": "Nvidia"
+    },
+    {
         "name": "Gigabyte (Outlet) GeForce RTX 4070 GAMING OC -näytönohjain, 12GB GDDR6X",
+        "price": "609,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199731&qty=1&ProductGuid=631e49a9-28ab-4c4b-b501-a74d650c3ec0",
-        "price": "659,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 84,
-        "make": "Nvidia",
-        "name": "Gigabyte (Outlet) GeForce RTX 4080 AERO OC -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199778&qty=1&ProductGuid=43e8b329-8854-4957-ae99-f3f7f5077760",
-        "price": "1 399,90 €"
-    },
-    {
-        "id": 85,
-        "make": "Nvidia",
-        "name": "Gainward (Outlet) GeForce RTX 4080 Phoenix -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200072&qty=1&ProductGuid=fa82f9b5-fe2b-4a88-8166-bbec926c2247",
-        "price": "1 299,90 €"
-    },
-    {
-        "id": 86,
-        "make": "Nvidia",
         "name": "Gigabyte (Outlet) GeForce RTX 4090 WINDFORCE V2 -näytönohjain, 24GB GDDR6X",
+        "price": "1 849,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200076&qty=1&ProductGuid=19d05f0c-17dd-4f8e-8c0f-3df3a47c8c59",
-        "price": "2 049,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 87,
-        "make": "Nvidia",
-        "name": "Gigabyte (Outlet) GeForce RTX 4080 EAGLE OC -näytönohjain, 16GB GDDR6X",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200084&qty=1&ProductGuid=83ad3583-3b6b-4a97-8434-531bfa4781bf",
-        "price": "1 349,90 €"
+        "name": "KFA2 GeForce RTX 4080 SUPER SG 1-Click OC -näytönohjain, 16GB GDDR6X",
+        "price": "1 299,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200188&qty=1&ProductGuid=db9f2af4-2671-407e-893c-8bf1a67ce65c",
+        "make": "Nvidia"
     },
     {
-        "id": 88,
-        "make": "Nvidia",
         "name": "Asus (Outlet) GeForce RTX 4070 Ti ROG Strix - OC Edition -näytönohjain, 12GB GDDR6X",
+        "price": "899,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200781&qty=1&ProductGuid=e577f6cb-6915-498e-8282-88774eb30b79",
-        "price": "987,90 €"
+        "make": "Nvidia"
     },
     {
-        "id": 89,
-        "make": "AMD",
+        "name": "Asus (Outlet) GeForce RTX 4060 DUAL - OC Edition -näytönohjain, 8GB GDDR6",
+        "price": "327,00 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=201177&qty=1&ProductGuid=d68a3373-eaf3-474e-b697-8d3b2a8e930f",
+        "make": "Nvidia"
+    },
+    {
+        "name": "Gigabyte (Outlet) GeForce RTX 4090 WINDFORCE V2 -näytönohjain, 24GB GDDR6X",
+        "price": "1 947,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=201278&qty=1&ProductGuid=77a71347-b418-40ca-9295-a86c69e57acf",
+        "make": "Nvidia"
+    },
+    {
         "name": "Asus Radeon RX 7800 XT TUF Gaming - OC Edition -näytönohjain, 16GB GDDR6",
+        "price": "549,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195381&qty=1&ProductGuid=3372ab51-4ef8-4ff3-afc0-dc2eec8f3a14",
-        "price": "589,90 €"
+        "make": "AMD"
     },
     {
-        "id": 90,
-        "make": "AMD",
         "name": "Asus Radeon RX 7900 XTX TUF Gaming - OC Edition -näytönohjain, 24GB GDDR6",
+        "price": "1 049,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187788&qty=1&ProductGuid=af271500-33e4-487a-906a-d70a1b7b3581",
-        "price": "1 099,90 €"
+        "make": "AMD"
     },
     {
-        "id": 91,
-        "make": "AMD",
         "name": "Sapphire Radeon RX 7800 XT PULSE -näytönohjain, 16GB GDDR6",
+        "price": "559,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195670&qty=1&ProductGuid=a9eba0e1-d52f-4786-ae94-15ac76e08e82",
-        "price": "579,90 €"
+        "make": "AMD"
     },
     {
-        "id": 92,
-        "make": "AMD",
-        "name": "Sapphire Radeon RX 7800 XT -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198012&qty=1&ProductGuid=f9d5f682-a009-47d7-8215-a604b6148fb6",
-        "price": "569,90 €"
-    },
-    {
-        "id": 93,
-        "make": "AMD",
-        "name": "PowerColor Radeon RX 7900 XTX Hellhound -näytönohjain, 24GB GDDR6",
+        "name": "PowerColor Radeon RX 7900 XTX Hellhound -näytönohjain, 24GB GDDR6 (Tarjous! Norm. 1049,90€)",
+        "price": "999,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188164&qty=1&ProductGuid=5b8c0fa0-35af-4602-b74e-0d782467bc13",
-        "price": "1 049,90 €"
+        "make": "AMD"
     },
     {
-        "id": 94,
-        "make": "AMD",
+        "name": "Asus Radeon RX 6600 DUAL V2 -näytönohjain, 8GB GDDR6",
+        "price": "224,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=192415&qty=1&ProductGuid=2575ea70-4fd0-41bf-82c8-1eaedcdc9360",
+        "make": "AMD"
+    },
+    {
+        "name": "Sapphire Radeon RX 7800 XT -näytönohjain, 16GB GDDR6",
+        "price": "549,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198012&qty=1&ProductGuid=f9d5f682-a009-47d7-8215-a604b6148fb6",
+        "make": "AMD"
+    },
+    {
         "name": "PowerColor Radeon RX 7800 XT Hellhound -näytönohjain, 16GB GDDR6",
+        "price": "599,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195078&qty=1&ProductGuid=9ff3b806-f7a5-4961-b9f7-abf13ad75325",
-        "price": "599,90 €"
+        "make": "AMD"
     },
     {
-        "id": 95,
-        "make": "AMD",
         "name": "Sapphire Radeon RX 7800 XT NITRO+ -näytönohjain, 16GB GDDR6",
+        "price": "609,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195672&qty=1&ProductGuid=7e1cddf2-b630-4628-a11b-8224b6c00d61",
-        "price": "629,90 €"
+        "make": "AMD"
     },
     {
-        "id": 96,
-        "make": "AMD",
         "name": "Gigabyte Radeon RX 7800 XT GAMING OC -näytönohjain, 16GB GDDR6",
+        "price": "589,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195342&qty=1&ProductGuid=c08fb433-532b-4cbb-9c2e-34411648f50b",
-        "price": "589,90 €"
+        "make": "AMD"
     },
     {
-        "id": 97,
-        "make": "AMD",
         "name": "PowerColor Radeon RX 7900 XT Hellhound -näytönohjain, 20GB GDDR6",
+        "price": "859,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188163&qty=1&ProductGuid=9a9eade5-3751-4ace-adff-2beb148b562e",
-        "price": "859,90 €"
+        "make": "AMD"
     },
     {
-        "id": 98,
-        "make": "AMD",
-        "name": "Gigabyte Radeon RX 7600 GAMING OC -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193041&qty=1&ProductGuid=4cc359a1-5048-4270-ba1d-849baf9da78b",
-        "price": "289,90 €"
-    },
-    {
-        "id": 99,
-        "make": "AMD",
-        "name": "MSI Radeon RX 6750 XT MECH 2X OC -näytönohjain, 12GB GDDR6 (Tarjous! Norm. 429,90€)",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=182124&qty=1&ProductGuid=43133a2e-38e0-4105-973f-00dd203f4f47",
-        "price": "389,90 €"
-    },
-    {
-        "id": 100,
-        "make": "AMD",
-        "name": "Sapphire Radeon RX 7900 XTX PULSE -näytönohjain, 24GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187919&qty=1&ProductGuid=55c88fad-0f19-4c87-a660-717ed57c21d3",
-        "price": "1 129,90 €"
-    },
-    {
-        "id": 101,
-        "make": "AMD",
         "name": "Sapphire Radeon RX 7800 XT PURE -näytönohjain, 16GB GDDR6",
+        "price": "599,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195812&qty=1&ProductGuid=2afef89e-04fc-44fd-bb76-09f1d8f89fa3",
-        "price": "609,90 €"
+        "make": "AMD"
     },
     {
-        "id": 102,
-        "make": "AMD",
-        "name": "Asus Radeon RX 7700 XT TUF Gaming - OC Edition -näytönohjain, 12GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195259&qty=1&ProductGuid=ff2db4f1-8875-4dee-899c-a65dceaab39f",
-        "price": "579,90 €"
+        "name": "Acer Radeon RX 7800 XT Nitro OC -näytönohjain, 16GB GDDR6",
+        "price": "599,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199399&qty=1&ProductGuid=089bfcdd-7fd6-4515-9e50-7ca091dcf90c",
+        "make": "AMD"
     },
     {
-        "id": 103,
-        "make": "AMD",
-        "name": "Gigabyte Radeon RX 7700 XT GAMING OC -näytönohjain, 12GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195341&qty=1&ProductGuid=4780cab2-da90-420f-a470-17c8395fd774",
-        "price": "499,90 €"
+        "name": "Sapphire Radeon RX 7900 XTX PULSE -näytönohjain, 24GB GDDR6 (Tarjous! Norm. 1129,90€)",
+        "price": "1 079,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187919&qty=1&ProductGuid=55c88fad-0f19-4c87-a660-717ed57c21d3",
+        "make": "AMD"
     },
     {
-        "id": 104,
-        "make": "AMD",
-        "name": "PowerColor Radeon RX 7900 XTX Hellhound Spectral White -näytönohjain, 24GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191821&qty=1&ProductGuid=ee4e096a-f5f4-442d-a421-55bb6b0c4da5",
-        "price": "1 139,90 €"
-    },
-    {
-        "id": 105,
-        "make": "AMD",
-        "name": "Asus Radeon RX 7900 XT TUF Gaming - OC Edition -näytönohjain, 20GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187787&qty=1&ProductGuid=deeb284c-f360-4c4a-b54a-e8a904e4a25a",
-        "price": "899,90 €"
-    },
-    {
-        "id": 106,
-        "make": "AMD",
-        "name": "PowerColor Radeon RX 7600 Fighter -näytönohjain, 8GB GDDR6",
+        "name": "PowerColor Radeon RX 7600 Fighter -näytönohjain, 8GB GDDR6 (Tarjous! Norm. 309,90€)",
+        "price": "289,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193043&qty=1&ProductGuid=449784af-5c1d-4bee-9d60-d800c5f04de6",
-        "price": "309,90 €"
+        "make": "AMD"
     },
     {
-        "id": 107,
-        "make": "AMD",
-        "name": "PowerColor Radeon RX 7600 XT Fighter -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199438&qty=1&ProductGuid=54a68afd-c607-4fe5-9812-6616604ed664",
-        "price": "379,90 €"
+        "name": "Asus Radeon RX 7900 XT TUF Gaming - OC Edition -näytönohjain, 20GB GDDR6",
+        "price": "899,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187787&qty=1&ProductGuid=deeb284c-f360-4c4a-b54a-e8a904e4a25a",
+        "make": "AMD"
     },
     {
-        "id": 108,
-        "make": "AMD",
         "name": "PowerColor Radeon RX 7600 Hellhound -näytönohjain, 8GB GDDR6",
+        "price": "319,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193042&qty=1&ProductGuid=bc1d05f2-53ec-479e-bbf4-008ea71d6c1a",
-        "price": "319,90 €"
+        "make": "AMD"
     },
     {
-        "id": 109,
-        "make": "AMD",
-        "name": "Sapphire Radeon RX 7600 PULSE -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194770&qty=1&ProductGuid=1f6791bd-5812-46c1-9c8d-2a393b49bd54",
-        "price": "309,90 €"
+        "name": "PowerColor Radeon RX 7900 XTX Hellhound Spectral White -näytönohjain, 24GB GDDR6",
+        "price": "1 139,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=191821&qty=1&ProductGuid=ee4e096a-f5f4-442d-a421-55bb6b0c4da5",
+        "make": "AMD"
     },
     {
-        "id": 110,
-        "make": "AMD",
-        "name": "Sapphire Radeon RX 7900 XT PULSE -näytönohjain, 20GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187920&qty=1&ProductGuid=ac47a7bf-8b7b-4524-884c-ac318c9ebb24",
-        "price": "879,90 €"
-    },
-    {
-        "id": 111,
-        "make": "AMD",
         "name": "PowerColor Radeon RX 7700 XT Hellhound -näytönohjain, 12GB GDDR6",
+        "price": "509,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195080&qty=1&ProductGuid=0e26295e-0962-4926-9b94-a6a92a7d0870",
-        "price": "539,90 €"
+        "make": "AMD"
     },
     {
-        "id": 112,
-        "make": "AMD",
-        "name": "Gigabyte Radeon RX 6750 XT AORUS ELITE -näytönohjain, 12GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=182495&qty=1&ProductGuid=1cceebd9-128e-4d14-a71e-073bc8b77ba7",
-        "price": "439,90 €"
+        "name": "PowerColor Radeon RX 7600 XT Fighter -näytönohjain, 16GB GDDR6",
+        "price": "379,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199438&qty=1&ProductGuid=54a68afd-c607-4fe5-9812-6616604ed664",
+        "make": "AMD"
     },
     {
-        "id": 113,
-        "make": "AMD",
+        "name": "Acer Radeon RX 7800 XT Predator BiFrost OC -näytönohjain, 16GB GDDR6",
+        "price": "629,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199398&qty=1&ProductGuid=e6479111-affa-4fa2-aeaa-5121950ac958",
+        "make": "AMD"
+    },
+    {
         "name": "Asus Radeon RX 7600 DUAL V2 - OC Edition -näytönohjain, 8GB GDDR6",
+        "price": "319,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193263&qty=1&ProductGuid=1a83e48c-7a4e-40a0-81ad-86c5680b4717",
-        "price": "319,90 €"
+        "make": "AMD"
     },
     {
-        "id": 114,
-        "make": "AMD",
-        "name": "Sapphire Radeon RX 7700 XT PULSE -näytönohjain, 12GB GDDR6 (Tarjous! Norm. 509,90€)",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195669&qty=1&ProductGuid=b7b57dc3-ecfa-4878-b5d4-b0de46888889",
-        "price": "489,90 €"
-    },
-    {
-        "id": 115,
-        "make": "AMD",
-        "name": "PowerColor Radeon RX 7600 XT Hellhound -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199434&qty=1&ProductGuid=afcf6a87-9a13-4d4a-b026-ef6ddba71917",
-        "price": "399,90 €"
-    },
-    {
-        "id": 116,
-        "make": "AMD",
         "name": "Gigabyte Radeon RX 7600 XT GAMING OC -näytönohjain, 16GB GDDR6",
+        "price": "439,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199193&qty=1&ProductGuid=dd714d40-65bf-4689-bcc5-a8185beb952c",
-        "price": "439,90 €"
+        "make": "AMD"
     },
     {
-        "id": 117,
-        "make": "AMD",
+        "name": "Sapphire Radeon RX 7600 PULSE -näytönohjain, 8GB GDDR6",
+        "price": "309,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=194770&qty=1&ProductGuid=1f6791bd-5812-46c1-9c8d-2a393b49bd54",
+        "make": "AMD"
+    },
+    {
         "name": "Sapphire Radeon RX 7700 XT NITRO+ -näytönohjain, 12GB GDDR6",
+        "price": "519,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195671&qty=1&ProductGuid=d472e406-3e9a-41eb-89d8-bdf50f4705c0",
-        "price": "569,90 €"
+        "make": "AMD"
     },
     {
-        "id": 118,
-        "make": "AMD",
+        "name": "PowerColor Radeon RX 7600 XT Hellhound -näytönohjain, 16GB GDDR6",
+        "price": "399,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199434&qty=1&ProductGuid=afcf6a87-9a13-4d4a-b026-ef6ddba71917",
+        "make": "AMD"
+    },
+    {
         "name": "Sapphire Radeon RX 7700 XT PURE -näytönohjain, 12GB GDDR6",
+        "price": "489,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=198013&qty=1&ProductGuid=93f593e5-8e4f-4bed-9997-c167f55ab518",
-        "price": "529,90 €"
+        "make": "AMD"
     },
     {
-        "id": 119,
-        "make": "AMD",
-        "name": "PowerColor Radeon RX 7800 XT Hellhound Spectral White -näytönohjain, 16GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=197094&qty=1&ProductGuid=28fe5c14-fbf2-4e56-8acc-113c6765eeea",
-        "price": "639,90 €"
+        "name": "Acer Radeon RX 7700 XT Nitro OC -näytönohjain, 12GB GDDR6",
+        "price": "549,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199433&qty=1&ProductGuid=46390bbb-6f4a-4fc4-8bfb-3fa6b5f70129",
+        "make": "AMD"
     },
     {
-        "id": 120,
-        "make": "AMD",
-        "name": "Sapphire Radeon RX 7900 XT NITRO+ Vapor-X -näytönohjain, 20GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187918&qty=1&ProductGuid=cf870e1a-66d5-4cba-9b76-be31dcf3a2e1",
-        "price": "939,90 €"
-    },
-    {
-        "id": 121,
-        "make": "AMD",
-        "name": "Gigabyte Radeon RX 7900 XTX GAMING OC -näytönohjain, 24GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188178&qty=1&ProductGuid=9fcdb336-b3ee-4aa0-b26b-f14ee78d9ad1",
-        "price": "1 161,90 €"
-    },
-    {
-        "id": 122,
-        "make": "AMD",
-        "name": "PowerColor Radeon RX 7900 XT Red Devil -näytönohjain, 20GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188165&qty=1&ProductGuid=274193ff-6585-4485-a53a-fb3bde4e78cf",
-        "price": "949,90 €"
-    },
-    {
-        "id": 123,
-        "make": "AMD",
-        "name": "PowerColor Radeon RX 6600 Fighter -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=176229&qty=1&ProductGuid=4595c390-34cb-4622-8c7a-1babb2ef4ce9",
-        "price": "229,90 €"
-    },
-    {
-        "id": 124,
-        "make": "AMD",
-        "name": "ASRock Radeon RX 7900 XT Taichi OC -näytönohjain, 20GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188092&qty=1&ProductGuid=0d9fd9be-7898-4ff9-8c8c-57ccfa9d9d2e",
-        "price": "889,90 €"
-    },
-    {
-        "id": 125,
-        "make": "AMD",
         "name": "Sapphire Radeon RX 7600 XT PULSE -näytönohjain, 16GB GDDR6",
+        "price": "409,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199467&qty=1&ProductGuid=cbce1836-b006-406f-9499-011eff226c5d",
-        "price": "409,90 €"
+        "make": "AMD"
     },
     {
-        "id": 126,
-        "make": "AMD",
+        "name": "Asus Radeon RX 7700 XT TUF Gaming - OC Edition -näytönohjain, 12GB GDDR6",
+        "price": "559,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195259&qty=1&ProductGuid=ff2db4f1-8875-4dee-899c-a65dceaab39f",
+        "make": "AMD"
+    },
+    {
+        "name": "Gigabyte Radeon RX 7700 XT GAMING OC -näytönohjain, 12GB GDDR6",
+        "price": "459,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195341&qty=1&ProductGuid=4780cab2-da90-420f-a470-17c8395fd774",
+        "make": "AMD"
+    },
+    {
+        "name": "Gigabyte Radeon RX 7900 GRE GAMING OC -näytönohjain, 16GB GDDR6",
+        "price": "639,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=201047&qty=1&ProductGuid=ebe56fd6-1f29-4b8d-8537-ae7fe6a4e33d",
+        "make": "AMD"
+    },
+    {
+        "name": "MSI Radeon RX 6750 XT MECH 2X OC -näytönohjain, 12GB GDDR6",
+        "price": "399,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=182124&qty=1&ProductGuid=43133a2e-38e0-4105-973f-00dd203f4f47",
+        "make": "AMD"
+    },
+    {
+        "name": "Sapphire Radeon RX 7900 XT PULSE -näytönohjain, 20GB GDDR6",
+        "price": "879,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187920&qty=1&ProductGuid=ac47a7bf-8b7b-4524-884c-ac318c9ebb24",
+        "make": "AMD"
+    },
+    {
+        "name": "Gigabyte Radeon RX 7900 XTX GAMING OC -näytönohjain, 24GB GDDR6",
+        "price": "1 134,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188178&qty=1&ProductGuid=9fcdb336-b3ee-4aa0-b26b-f14ee78d9ad1",
+        "make": "AMD"
+    },
+    {
+        "name": "Gigabyte Radeon RX 7600 GAMING OC -näytönohjain, 8GB GDDR6",
+        "price": "289,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=193041&qty=1&ProductGuid=4cc359a1-5048-4270-ba1d-849baf9da78b",
+        "make": "AMD"
+    },
+    {
+        "name": "Sapphire Radeon RX 7900 XT NITRO+ Vapor-X -näytönohjain, 20GB GDDR6",
+        "price": "939,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187918&qty=1&ProductGuid=cf870e1a-66d5-4cba-9b76-be31dcf3a2e1",
+        "make": "AMD"
+    },
+    {
+        "name": "Sapphire Radeon RX 7700 XT PULSE -näytönohjain, 12GB GDDR6",
+        "price": "469,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195669&qty=1&ProductGuid=b7b57dc3-ecfa-4878-b5d4-b0de46888889",
+        "make": "AMD"
+    },
+    {
+        "name": "PowerColor Radeon RX 7900 XT Red Devil -näytönohjain, 20GB GDDR6",
+        "price": "949,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188165&qty=1&ProductGuid=274193ff-6585-4485-a53a-fb3bde4e78cf",
+        "make": "AMD"
+    },
+    {
         "name": "Sapphire Radeon RX 7900 XTX NITRO+ Vapor-X -näytönohjain, 24GB GDDR6",
+        "price": "1 312,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=187917&qty=1&ProductGuid=303ecff5-4ef7-41e9-b096-ebc2adb4809f",
-        "price": "1 249,90 €"
+        "make": "AMD"
     },
     {
-        "id": 127,
-        "make": "AMD",
-        "name": "Asus Radeon RX 6750 XT DUAL - OC Edition -näytönohjain, 12GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=182311&qty=1&ProductGuid=e2795514-0a07-45cf-b75c-f71a7946cdfc",
-        "price": "399,90 €"
-    },
-    {
-        "id": 128,
-        "make": "AMD",
         "name": "ASRock Radeon RX 7800 XT Phantom Gaming OC -näytönohjain, 16GB GDDR6",
+        "price": "629,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195668&qty=1&ProductGuid=ff159192-5d90-45f3-b694-f0466f98df53",
-        "price": "649,90 €"
+        "make": "AMD"
     },
     {
-        "id": 129,
-        "make": "AMD",
+        "name": "Gigabyte Radeon RX 6750 XT AORUS ELITE -näytönohjain, 12GB GDDR6 (Tarjous! Norm. 439,90€)",
+        "price": "419,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=182495&qty=1&ProductGuid=1cceebd9-128e-4d14-a71e-073bc8b77ba7",
+        "make": "AMD"
+    },
+    {
+        "name": "PowerColor Radeon RX 7800 XT Hellhound Spectral White -näytönohjain, 16GB GDDR6",
+        "price": "619,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=197094&qty=1&ProductGuid=28fe5c14-fbf2-4e56-8acc-113c6765eeea",
+        "make": "AMD"
+    },
+    {
+        "name": "ASRock Radeon RX 7900 XT Taichi OC -näytönohjain, 20GB GDDR6",
+        "price": "889,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=188092&qty=1&ProductGuid=0d9fd9be-7898-4ff9-8c8c-57ccfa9d9d2e",
+        "make": "AMD"
+    },
+    {
+        "name": "Sapphire Radeon RX 7900 GRE NITRO+ -näytönohjain, 16GB GDDR6",
+        "price": "699,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200258&qty=1&ProductGuid=cf47ecae-1843-475d-bd94-08f07bbca055",
+        "make": "AMD"
+    },
+    {
         "name": "PowerColor Radeon RX 7700 XT Fighter -näytönohjain, 12GB GDDR6",
+        "price": "479,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195081&qty=1&ProductGuid=1e7077f8-bfd0-4525-9570-1d7badcfee9b",
-        "price": "529,90 €"
+        "make": "AMD"
     },
     {
-        "id": 130,
-        "make": "AMD",
-        "name": "PowerColor (Outlet) Radeon RX 7900 XTX Hellhound -näytönohjain, 24GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=192786&qty=1&ProductGuid=2ce66dd8-b90e-4322-bd48-adc11156243b",
-        "price": "989,90 €"
+        "name": "MSI (Outlet) Radeon RX 6750 XT MECH 2X OC -näytönohjain, 12GB GDDR6",
+        "price": "408,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199031&qty=1&ProductGuid=db8aa197-68da-452c-856d-bf75e81e6a94",
+        "make": "AMD"
     },
     {
-        "id": 131,
-        "make": "AMD",
         "name": "Sapphire (Outlet) Radeon RX 6400 PULSE -näytönohjain, 4GB GDDR6",
+        "price": "174,90 €",
         "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=199492&qty=1&ProductGuid=c1fa4d10-64eb-48e5-a247-60ef3d885cdb",
-        "price": "182,90 €"
+        "make": "AMD"
     },
     {
-        "id": 132,
-        "make": "AMD",
-        "name": "Asus (Outlet) Radeon RX 7600 DUAL V2 - OC Edition -näytönohjain, 8GB GDDR6",
-        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=200455&qty=1&ProductGuid=68407027-acf0-4a78-84ef-9ce060b29afa",
-        "price": "300,90 €"
+        "name": "Gigabyte (Outlet) Radeon RX 7600 GAMING OC -näytönohjain, 8GB GDDR6",
+        "price": "275,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=201279&qty=1&ProductGuid=ab1ef0ea-d3c3-4c72-a03e-d6a760090cf6",
+        "make": "AMD"
+    },
+    {
+        "name": "Asus (Outlet) Radeon RX 7900 XTX TUF Gaming - OC Edition -näytönohjain, 24GB GDDR6",
+        "price": "1 019,90 €",
+        "link": "https://www.jimms.fi/fi/ShoppingCart/AddItem?productID=195855&qty=1&ProductGuid=69afc012-88cb-4f7e-9f48-9c3026e649b3",
+        "make": "AMD"
     }
 ]

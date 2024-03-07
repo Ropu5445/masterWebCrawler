@@ -1,11 +1,6 @@
-import time
-import os
+import glob, os
 
-def run_scraper(scraper):
-    command = f'py C:\\GitHub\\Web\\Web_Scraper_Project\\Web_Scraper_Website\\scrapers\\{scraper}'
-    os.system(command)
+os.chdir("./")
 
-scrapers = ['cars_scraper.py', 'tractors_scraper.py', 'games_scraper.py']
-
-for scraper in scrapers:
-    run_scraper(scraper)
+for file in glob.glob("*.py"):
+    os.system(f"python {file}");

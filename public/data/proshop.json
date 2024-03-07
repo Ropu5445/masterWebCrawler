@@ -1,478 +1,314 @@
 [
     {
-        "id": 1,
-        "name": "ASUS GeForce RTX 4070 DUAL OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-DUAL-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3146581",
-        "price": "619,90"
+        "Name": "ASUS GeForce RTX 4090 ROG MATRIX Platinum - 24GB GDDR6 RAM",
+        "Price": "3 299,00",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-ROG-MATRIX-Platinum-24GB-GDDR6-RAM-Naeytoenohjaimet/3197274",
+        "Make": "Nvidia"
     },
     {
-        "id": 2,
-        "name": "ASUS GeForce RTX 4070 TUF OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-TUF-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3146583",
-        "price": "699,90"
+        "Name": "GIGABYTE GeForce RTX 4090 WindForce V2 - 24GB GDDR6X RAM",
+        "Price": "1 949,00",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4090-WindForce-V2-24GB-GDDR6X-RAM-Naeytoenohjaimet/3186952",
+        "Make": "Nvidia"
     },
     {
-        "id": 3,
-        "name": "ASUS GeForce RTX 4070 DUAL OC White - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-DUAL-OC-White-12GB-GDDR6X-RAM-Naeytoenohjaimet/3146587",
-        "price": "629,90"
+        "Name": "ASUS GeForce RTX 4070 ProArt OC - 12GB GDDR6X RAM",
+        "Price": "634,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-ProArt-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3196020",
+        "Make": "Nvidia"
     },
     {
-        "id": 4,
-        "name": "ASUS GeForce RTX 4070 ROG STRIX OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-ROG-STRIX-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3146585",
-        "price": "744,44"
+        "Name": "GIGABYTE GeForce RTX 4070 WindForce V2 OC - 12GB GDDR6X RAM",
+        "Price": "599,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-WindForce-V2-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3207015",
+        "Make": "Nvidia"
     },
     {
-        "id": 5,
-        "name": "ASUS GeForce RTX 4090 ROG MATRIX Platinum - 24GB GDDR6 RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-ROG-MATRIX-Platinum-24GB-GDDR6-RAM-Naeytoenohjaimet/3197274",
-        "price": "3 599,90"
+        "Name": "GIGABYTE GeForce RTX 4090 GAMING OC - 24GB GDDR6X RAM",
+        "Price": "1 999,00",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4090-GAMING-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3104778",
+        "Make": "Nvidia"
     },
     {
-        "id": 6,
-        "name": "ZOTAC GeForce RTX 4070 Ti SUPER Trinity OC White - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Ti-SUPER-Trinity-OC-White-16GB-GDDR6X-RAM-Naeytoenohjaimet/3223761",
-        "price": "949,90"
+        "Name": "ZOTAC GeForce RTX 4070 Twin Edge OC - 12GB GDDR6X RAM",
+        "Price": "625,66",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Twin-Edge-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3149064",
+        "Make": "Nvidia"
     },
     {
-        "id": 7,
-        "name": "ZOTAC GeForce RTX 4070 SUPER Trinity - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-SUPER-Trinity-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223759",
-        "price": "729,90"
+        "Name": "MSI GeForce RTX 4070 SUPER VENTUS 2X OC - 12GB GDDR6X RAM",
+        "Price": "712,46",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/MSI-GeForce-RTX-4070-SUPER-VENTUS-2X-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3228212",
+        "Make": "Nvidia"
     },
     {
-        "id": 8,
-        "name": "GIGABYTE GeForce RTX 4070 WindForce V2 OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-WindForce-V2-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3207015",
-        "price": "619,90"
+        "Name": "GIGABYTE GeForce RTX 4070 EAGLE OC V2 - 12GB GDDR6X RAM",
+        "Price": "639,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-EAGLE-OC-V2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3207010",
+        "Make": "Nvidia"
     },
     {
-        "id": 9,
-        "name": "GIGABYTE GeForce RTX 4070 WindForce 3 OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-WindForce-3-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3149826",
-        "price": "637,49"
+        "Name": "ZOTAC GeForce RTX 4070 Ti SUPER Trinity - 16GB GDDR6X RAM",
+        "Price": "919,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Ti-SUPER-Trinity-16GB-GDDR6X-RAM-Naeytoenohjaimet/3223760",
+        "Make": "Nvidia"
     },
     {
-        "id": 10,
-        "name": "ZOTAC GeForce RTX 4070 SUPER Twin Edge - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-SUPER-Twin-Edge-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223757",
-        "price": "689,90"
+        "Name": "ASUS GeForce RTX 4070 Ti SUPER ROG STRIX OC - 16GB GDDR6X RAM",
+        "Price": "1 199,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-Ti-SUPER-ROG-STRIX-OC-16GB-GDDR6X-RAM-Naeytoenohjaimet/3222418",
+        "Make": "Nvidia"
     },
     {
-        "id": 11,
-        "name": "ASUS GeForce RTX 4070 Ti SUPER ROG STRIX OC - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-Ti-SUPER-ROG-STRIX-OC-16GB-GDDR6X-RAM-Naeytoenohjaimet/3222418",
-        "price": "1 199,90"
+        "Name": "ASUS GeForce RTX 4070 Ti SUPER TUF OC - 16GB GDDR6X RAM",
+        "Price": "1 079,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-Ti-SUPER-TUF-OC-16GB-GDDR6X-RAM-Naeytoenohjaimet/3222416",
+        "Make": "Nvidia"
     },
     {
-        "id": 12,
-        "name": "Inno3D GeForce RTX 4070 SUPER Twin X2 - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4070-SUPER-Twin-X2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3224579",
-        "price": "689,90"
+        "Name": "ASUS GeForce RTX 4090 ROG STRIX OC - 24GB GDDR6X RAM",
+        "Price": "2 149,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-ROG-STRIX-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3106488",
+        "Make": "Nvidia"
     },
     {
-        "id": 13,
-        "name": "GIGABYTE GeForce RTX 4070 SUPER EAGLE OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-SUPER-EAGLE-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223943",
-        "price": "729,90"
+        "Name": "GIGABYTE GeForce RTX 4070 Ti GAMING OC - 12GB GDDR6X RAM",
+        "Price": "979,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-Ti-GAMING-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3127703",
+        "Make": "Nvidia"
     },
     {
-        "id": 14,
-        "name": "GIGABYTE GeForce RTX 4090 GAMING OC - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4090-GAMING-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3104778",
-        "price": "2 099,00"
+        "Name": "GIGABYTE GeForce RTX 4070 SUPER GAMING OC - 12GB GDDR6X RAM",
+        "Price": "749,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-SUPER-GAMING-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223945",
+        "Make": "Nvidia"
     },
     {
-        "id": 15,
-        "name": "ASUS GeForce RTX 4090 TUF OC - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-TUF-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3106486",
-        "price": "2 149,90"
+        "Name": "ASUS GeForce RTX 4090 TUF OG OC - 24GB GDDR6X RAM",
+        "Price": "1 999,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-TUF-OG-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3171085",
+        "Make": "Nvidia"
     },
     {
-        "id": 16,
-        "name": "ZOTAC GeForce RTX 4070 Twin Edge OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Twin-Edge-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223758",
-        "price": "699,90"
+        "Name": "GIGABYTE GeForce RTX 4070 SUPER EAGLE OC - 12GB GDDR6X RAM",
+        "Price": "729,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-SUPER-EAGLE-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223943",
+        "Make": "Nvidia"
     },
     {
-        "id": 17,
-        "name": "ASUS GeForce RTX 4090 TUF OG OC - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-TUF-OG-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3171085",
-        "price": "2 149,90"
+        "Name": "ASUS GeForce RTX 4070 DUAL OC White - 12GB GDDR6X RAM",
+        "Price": "629,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-DUAL-OC-White-12GB-GDDR6X-RAM-Naeytoenohjaimet/3146587",
+        "Make": "Nvidia"
     },
     {
-        "id": 18,
-        "name": "GIGABYTE GeForce RTX 4090 AERO OC - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4090-AERO-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3170393",
-        "price": "2 149,00"
+        "Name": "Inno3D GeForce RTX 4070 X2 - 12GB GDDR6X RAM",
+        "Price": "619,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4070-X2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3154679",
+        "Make": "Nvidia"
     },
     {
-        "id": 19,
-        "name": "GIGABYTE GeForce RTX 4070 SUPER GAMING OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-SUPER-GAMING-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223945",
-        "price": "749,90"
+        "Name": "ASUS GeForce RTX 4070 SUPER OC - 12GB GDDR6X RAM",
+        "Price": "829,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-SUPER-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3222412",
+        "Make": "Nvidia"
     },
     {
-        "id": 20,
-        "name": "PNY GeForce RTX 4080 VERTO EPIC-X RGB Triple Fan - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/PNY-GeForce-RTX-4080-VERTO-EPIC-X-RGB-Triple-Fan-16GB-GDDR6X-RAM-Naeytoenohjaimet/3137598",
-        "price": "1 299,90"
+        "Name": "GIGABYTE GeForce RTX 4070 SUPER AERO OC - 12GB GDDR6X RAM",
+        "Price": "769,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-SUPER-AERO-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223947",
+        "Make": "Nvidia"
     },
     {
-        "id": 21,
-        "name": "MSI GeForce RTX 4090 GAMING X TRIO - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/MSI-GeForce-RTX-4090-GAMING-X-TRIO-24GB-GDDR6X-RAM-Naeytoenohjaimet/3108360",
-        "price": "2 185,30"
+        "Name": "ASUS GeForce RTX 4070 SUPER DUAL OC White - 12GB GDDR6X RAM",
+        "Price": "729,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-SUPER-DUAL-OC-White-12GB-GDDR6X-RAM-Naeytoenohjaimet/3222410",
+        "Make": "Nvidia"
     },
     {
-        "id": 22,
-        "name": "ASUS GeForce RTX 4070 SUPER OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-SUPER-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3222412",
-        "price": "829,90"
+        "Name": "ASUS GeForce RTX 4070 Ti SUPER TUF White OC - 16GB GDDR6X RAM",
+        "Price": "1 089,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-Ti-SUPER-TUF-White-OC-16GB-GDDR6X-RAM-Naeytoenohjaimet/3227647",
+        "Make": "Nvidia"
     },
     {
-        "id": 23,
-        "name": "GIGABYTE GeForce RTX 4070 SUPER AERO OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-SUPER-AERO-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223947",
-        "price": "769,90"
+        "Name": "ASUS GeForce RTX 4070 ROG STRIX OC - 12GB GDDR6X RAM",
+        "Price": "744,44",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-ROG-STRIX-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3146585",
+        "Make": "Nvidia"
     },
     {
-        "id": 24,
-        "name": "GIGABYTE GeForce RTX 4070 EAGLE OC V2 - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-EAGLE-OC-V2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3207010",
-        "price": "695,68"
+        "Name": "GIGABYTE GeForce RTX 4070 SUPER EAGLE OC ICE - 12GB GDDR6X RAM",
+        "Price": "759,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-SUPER-EAGLE-OC-ICE-12GB-GDDR6X-RAM-Naeytoenohjaimet/3236197",
+        "Make": "Nvidia"
     },
     {
-        "id": 25,
-        "name": "GIGABYTE GeForce RTX 4090 AORUS Master - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4090-AORUS-Master-24GB-GDDR6X-RAM-Naeytoenohjaimet/3106630",
-        "price": "2 199,90"
+        "Name": "GIGABYTE GeForce RTX 4070 Ti SUPER EAGLE OC ICE - 16GB GDDR6X RAM",
+        "Price": "989,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-Ti-SUPER-EAGLE-OC-ICE-16GB-GDDR6X-RAM-Naeytoenohjaimet/3236198",
+        "Make": "Nvidia"
     },
     {
-        "id": 26,
-        "name": "Inno3D GeForce RTX 4070 X2 - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4070-X2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3154679",
-        "price": "619,90"
+        "Name": "ZOTAC GeForce RTX 4070 Ti AMP! AIRO - 12GB GDDR6X RAM",
+        "Price": "849,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Ti-AMP-AIRO-12GB-GDDR6X-RAM-Naeytoenohjaimet/3145390",
+        "Make": "Nvidia"
     },
     {
-        "id": 27,
-        "name": "Inno3D GeForce RTX 4070 Ti X3 - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4070-Ti-X3-12GB-GDDR6X-RAM-Naeytoenohjaimet/3130936",
-        "price": "894,41"
+        "Name": "GIGABYTE GeForce RTX 4090 AORUS WaterForce Xtreme - 24GB GDDR6X RAM",
+        "Price": "2 269,00",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4090-AORUS-WaterForce-Xtreme-24GB-GDDR6X-RAM-Naeytoenohjaimet/3106632",
+        "Make": "Nvidia"
     },
     {
-        "id": 28,
-        "name": "GIGABYTE GeForce RTX 4080 EAGLE OC - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4080-EAGLE-OC-16GB-GDDR6X-RAM-Naeytoenohjaimet-DEMO/3115873d",
-        "price": "1 175,27"
+        "Name": "ASUS GeForce RTX 4070 SUPER ProArt OC - 12GB GDDR6X RAM",
+        "Price": "799,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-SUPER-ProArt-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3231261",
+        "Make": "Nvidia"
     },
     {
-        "id": 29,
-        "name": "Inno3D GeForce RTX 4090 X3 OC - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4090-X3-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3107617",
-        "price": "2 099,00"
+        "Name": "Inno3D GeForce RTX 4070 Ti X3 - 12GB GDDR6X RAM",
+        "Price": "844,77",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4070-Ti-X3-12GB-GDDR6X-RAM-Naeytoenohjaimet/3130936",
+        "Make": "Nvidia"
     },
     {
-        "id": 30,
-        "name": "Palit GeForce RTX 4080 GameRock - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Palit-GeForce-RTX-4080-GameRock-16GB-GDDR6X-RAM-Naeytoenohjaimet/3121690",
-        "price": "1 454,77"
+        "Name": "GIGABYTE GeForce RTX 4070 Ti AERO OC V2 - 12GB GDDR6X RAM",
+        "Price": "899,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-Ti-AERO-OC-V2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3181977",
+        "Make": "Nvidia"
     },
     {
-        "id": 31,
-        "name": "MSI GeForce RTX 4070 SUPER GAMING X SLIM WHITE - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/MSI-GeForce-RTX-4070-SUPER-GAMING-X-SLIM-WHITE-12GB-GDDR6X-RAM-Naeytoenohjaimet/3228249",
-        "price": "817,54"
+        "Name": "ASUS GeForce RTX 4090 ROG STRIX OC White - 24GB GDDR6X RAM",
+        "Price": "2 289,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-ROG-STRIX-OC-White-24GB-GDDR6X-RAM-Naeytoenohjaimet/3126922",
+        "Make": "Nvidia"
     },
     {
-        "id": 32,
-        "name": "GIGABYTE GeForce RTX 4090 WindForce V2 - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4090-WindForce-V2-24GB-GDDR6X-RAM-Naeytoenohjaimet/3186952",
-        "price": "2 069,90"
+        "Name": "Inno3D GeForce RTX 4090 X3 OC - 24GB GDDR6X RAM",
+        "Price": "1 999,00",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4090-X3-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3107617",
+        "Make": "Nvidia"
     },
     {
-        "id": 33,
-        "name": "ASUS GeForce RTX 4090 ROG STRIX OC White - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-ROG-STRIX-OC-White-24GB-GDDR6X-RAM-Naeytoenohjaimet/3126922",
-        "price": "2 349,90"
+        "Name": "Inno3D GeForce RTX 4070 SUPER Twin X2 - 12GB GDDR6X RAM",
+        "Price": "689,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4070-SUPER-Twin-X2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3224579",
+        "Make": "Nvidia"
     },
     {
-        "id": 34,
-        "name": "GIGABYTE GeForce RTX 4070 Ti SUPER EAGLE OC - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-Ti-SUPER-EAGLE-OC-16GB-GDDR6X-RAM-Naeytoenohjaimet/3223952",
-        "price": "989,90"
+        "Name": "ASUS GeForce RTX 4070 SUPER ROG STRIX OC - 12GB GDDR6X RAM",
+        "Price": "939,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-SUPER-ROG-STRIX-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3222414",
+        "Make": "Nvidia"
     },
     {
-        "id": 35,
-        "name": "ZOTAC GeForce RTX 4070 Ti Trinity OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Ti-Trinity-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3141143",
-        "price": "849,90"
+        "Name": "GIGABYTE GeForce RTX 4070 AERO OC V2 - 12GB GDDR6X RAM",
+        "Price": "738,59",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-AERO-OC-V2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3226518",
+        "Make": "Nvidia"
     },
     {
-        "id": 36,
-        "name": "ASUS GeForce RTX 4070 ProArt OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-ProArt-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3196020",
-        "price": "746,56"
+        "Name": "Inno3D GeForce RTX 4090 iCHILL X3 - 24GB GDDR6X RAM",
+        "Price": "2 099,00",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4090-iCHILL-X3-24GB-GDDR6X-RAM-Naeytoenohjaimet/3107618",
+        "Make": "Nvidia"
     },
     {
-        "id": 37,
-        "name": "GIGABYTE GeForce RTX 4070 AERO OC V2 - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-AERO-OC-V2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3226518",
-        "price": "769,90"
+        "Name": "MSI GeForce RTX 4090 GAMING X TRIO - 24GB GDDR6X RAM",
+        "Price": "2 160,95",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/MSI-GeForce-RTX-4090-GAMING-X-TRIO-24GB-GDDR6X-RAM-Naeytoenohjaimet/3108360",
+        "Make": "Nvidia"
     },
     {
-        "id": 38,
-        "name": "GIGABYTE GeForce RTX 4080 AERO OC - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4080-AERO-OC-16GB-GDDR6X-RAM-Naeytoenohjaimet/3119861",
-        "price": "1 446,80"
+        "Name": "GIGABYTE GeForce RTX 4070 SUPER AORUS Master - 12GB GDDR6X RAM",
+        "Price": "819,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-SUPER-AORUS-Master-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223948",
+        "Make": "Nvidia"
     },
     {
-        "id": 39,
-        "name": "ASUS GeForce RTX 4070 ProArt OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-ProArt-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet-DEMO/3196020d",
-        "price": "637,04"
+        "Name": "MSI GeForce RTX 4090 VENTUS 3X E OC - 24GB GDDR6X RAM",
+        "Price": "2 161,21",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/MSI-GeForce-RTX-4090-VENTUS-3X-E-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3210283",
+        "Make": "Nvidia"
     },
     {
-        "id": 40,
-        "name": "ZOTAC GeForce RTX 4070 Ti AMP! AIRO - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Ti-AMP-AIRO-12GB-GDDR6X-RAM-Naeytoenohjaimet/3145390",
-        "price": "849,90"
+        "Name": "ZOTAC GeForce RTX 4070 AMP! AIRO - 12GB GDDR6X RAM",
+        "Price": "769,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-AMP-AIRO-12GB-GDDR6X-RAM-Naeytoenohjaimet/3149065",
+        "Make": "Nvidia"
     },
     {
-        "id": 41,
-        "name": "Inno3D GeForce RTX 4090 iCHILL X3 - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4090-iCHILL-X3-24GB-GDDR6X-RAM-Naeytoenohjaimet/3107618",
-        "price": "2 199,90"
+        "Name": "MSI GeForce RTX 4070 VENTUS 3X E OC - 12GB GDDR6X RAM",
+        "Price": "707,97",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/MSI-GeForce-RTX-4070-VENTUS-3X-E-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3203173",
+        "Make": "Nvidia"
     },
     {
-        "id": 42,
-        "name": "GIGABYTE GeForce RTX 4070 Ti AERO OC V2 - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-Ti-AERO-OC-V2-12GB-GDDR6X-RAM-Naeytoenohjaimet/3181977",
-        "price": "961,69"
+        "Name": "ZOTAC GeForce RTX 4070 Ti SUPER Trinity OC White - 16GB GDDR6X RAM",
+        "Price": "949,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Ti-SUPER-Trinity-OC-White-16GB-GDDR6X-RAM-Naeytoenohjaimet/3223761",
+        "Make": "Nvidia"
     },
     {
-        "id": 43,
-        "name": "GIGABYTE GeForce RTX 4070 GAMING OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-GAMING-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3149058",
-        "price": "700,07"
+        "Name": "ASUS GeForce RTX 4090 TUF OC - 24GB GDDR6X RAM",
+        "Price": "2 049,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4090-TUF-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3106486",
+        "Make": "Nvidia"
     },
     {
-        "id": 44,
-        "name": "ZOTAC GeForce RTX 4070 Twin Edge OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Twin-Edge-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3149064",
-        "price": "655,00"
+        "Name": "ZOTAC GeForce RTX 4070 SUPER Twin Edge - 12GB GDDR6X RAM",
+        "Price": "629,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-SUPER-Twin-Edge-12GB-GDDR6X-RAM-Naeytoenohjaimet/3223757",
+        "Make": "Nvidia"
     },
     {
-        "id": 45,
-        "name": "ASUS GeForce RTX 4070 ROG STRIX OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-ROG-STRIX-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet-DEMO/3146585d",
-        "price": "696,93"
+        "Name": "GIGABYTE GeForce RTX 4070 GAMING OC - 12GB GDDR6X RAM",
+        "Price": "629,47",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-GAMING-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet-DEMO/3149058d",
+        "Make": "Nvidia"
     },
     {
-        "id": 46,
-        "name": "ZOTAC GeForce RTX 4070 AMP! AIRO - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-AMP-AIRO-12GB-GDDR6X-RAM-Naeytoenohjaimet/3149065",
-        "price": "769,90"
+        "Name": "ASRock Radeon RX 7900 XT Phantom Gaming OC - 20 GB GDDR6 RAM",
+        "Price": "799,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASRock-Radeon-RX-7900-XT-Phantom-Gaming-OC-20-GB-GDDR6-RAM-Naeytoenohjaimet/3137615",
+        "Make": "Amd"
     },
     {
-        "id": 47,
-        "name": "MSI GeForce RTX 4090 VENTUS 3X E OC - 24GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/MSI-GeForce-RTX-4090-VENTUS-3X-E-OC-24GB-GDDR6X-RAM-Naeytoenohjaimet/3210283",
-        "price": "2 161,21"
+        "Name": "ASUS Radeon RX 7900 XT TUF OC - 20 GB GDDR6 RAM",
+        "Price": "839,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-Radeon-RX-7900-XT-TUF-OC-20-GB-GDDR6-RAM-Naeytoenohjaimet/3124201",
+        "Make": "Amd"
     },
     {
-        "id": 48,
-        "name": "ZOTAC GeForce RTX 4080 Trinity OC - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4080-Trinity-OC-16GB-GDDR6X-RAM-Naeytoenohjaimet/3121711",
-        "price": "1 274,10"
+        "Name": "PowerColor Radeon RX 7900 XTX Hellhound - 24GB GDDR6 RAM",
+        "Price": "1 075,69",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/PowerColor-Radeon-RX-7900-XTX-Hellhound-24GB-GDDR6-RAM-Naeytoenohjaimet/3123339",
+        "Make": "Amd"
     },
     {
-        "id": 49,
-        "name": "MSI GeForce RTX 4070 VENTUS 3X E OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/MSI-GeForce-RTX-4070-VENTUS-3X-E-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3203173",
-        "price": "713,74"
+        "Name": "ASUS Radeon RX 7900 XTX TUF OC - 24GB GDDR6 RAM",
+        "Price": "1 069,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-Radeon-RX-7900-XTX-TUF-OC-24GB-GDDR6-RAM-Naeytoenohjaimet/3124203",
+        "Make": "Amd"
     },
     {
-        "id": 50,
-        "name": "ASUS GeForce RTX 4070 SUPER ROG STRIX OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-GeForce-RTX-4070-SUPER-ROG-STRIX-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3222414",
-        "price": "939,90"
+        "Name": "ASRock Radeon RX 7900 XTX Phantom Gaming OC - 24GB GDDR6 RAM",
+        "Price": "1 049,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASRock-Radeon-RX-7900-XTX-Phantom-Gaming-OC-24GB-GDDR6-RAM-Naeytoenohjaimet/3151580",
+        "Make": "Amd"
     },
     {
-        "id": 51,
-        "name": "Inno3D GeForce RTX 4070 SUPER X3 OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4070-SUPER-X3-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3224582",
-        "price": "739,90"
+        "Name": "ASRock Radeon RX 7900 XTX Taichi White OC - 24GB GDDR6 RAM",
+        "Price": "1 149,90",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/ASRock-Radeon-RX-7900-XTX-Taichi-White-OC-24GB-GDDR6-RAM-Naeytoenohjaimet/3172672",
+        "Make": "Amd"
     },
     {
-        "id": 52,
-        "name": "GIGABYTE GeForce RTX 4070 Ti AORUS Elite - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-Ti-AORUS-Elite-12GB-GDDR6X-RAM-Naeytoenohjaimet/3127706",
-        "price": "1 021,33"
-    },
-    {
-        "id": 53,
-        "name": "ZOTAC GeForce RTX 4070 Ti SUPER Trinity - 16GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ZOTAC-GeForce-RTX-4070-Ti-SUPER-Trinity-16GB-GDDR6X-RAM-Naeytoenohjaimet-DEMO/3223760d",
-        "price": "832,91"
-    },
-    {
-        "id": 54,
-        "name": "PNY GeForce RTX 4070 Ti White - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/PNY-GeForce-RTX-4070-Ti-White-12GB-GDDR6X-RAM-Naeytoenohjaimet-DEMO/3184402d",
-        "price": "833,58"
-    },
-    {
-        "id": 55,
-        "name": "Inno3D GeForce RTX 4070 X3 OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Inno3D-GeForce-RTX-4070-X3-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet-DEMO/3154681d",
-        "price": "627,47"
-    },
-    {
-        "id": 56,
-        "name": "GIGABYTE GeForce RTX 4070 Ti GAMING OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-Ti-GAMING-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3127703",
-        "price": "1 071,23"
-    },
-    {
-        "id": 57,
-        "name": "GIGABYTE GeForce RTX 4070 Ti EAGLE OC - 12GB GDDR6X RAM",
-        "Maker": "Nvidia",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/GIGABYTE-GeForce-RTX-4070-Ti-EAGLE-OC-12GB-GDDR6X-RAM-Naeytoenohjaimet/3127701",
-        "price": "934,94"
-    },
-    {
-        "id": 1,
-        "name": "ASRock Radeon RX 7900 XT Phantom Gaming OC - 20 GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASRock-Radeon-RX-7900-XT-Phantom-Gaming-OC-20-GB-GDDR6-RAM-Naeytoenohjaimet/3137615",
-        "price": "799,90"
-    },
-    {
-        "id": 2,
-        "name": "PowerColor Radeon RX 7900 XTX Hellhound - 24GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/PowerColor-Radeon-RX-7900-XTX-Hellhound-24GB-GDDR6-RAM-Naeytoenohjaimet/3123339",
-        "price": "1 076,97"
-    },
-    {
-        "id": 3,
-        "name": "ASRock Radeon RX 7900 XTX Phantom Gaming OC - 24GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASRock-Radeon-RX-7900-XTX-Phantom-Gaming-OC-24GB-GDDR6-RAM-Naeytoenohjaimet/3151580",
-        "price": "1 049,90"
-    },
-    {
-        "id": 4,
-        "name": "ASRock Radeon RX 7900 XTX Taichi White OC - 24GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASRock-Radeon-RX-7900-XTX-Taichi-White-OC-24GB-GDDR6-RAM-Naeytoenohjaimet/3172672",
-        "price": "1 199,90"
-    },
-    {
-        "id": 5,
-        "name": "Sapphire Radeon RX 7900 XT Pulse - 20 GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Sapphire-Radeon-RX-7900-XT-Pulse-20-GB-GDDR6-RAM-Naeytoenohjaimet/3127489",
-        "price": "867,20"
-    },
-    {
-        "id": 6,
-        "name": "PowerColor Radeon RX 7900 XTX Red Devil - 24GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/PowerColor-Radeon-RX-7900-XTX-Red-Devil-24GB-GDDR6-RAM-Naeytoenohjaimet/3129386",
-        "price": "1 211,18"
-    },
-    {
-        "id": 7,
-        "name": "Sapphire Radeon RX 7900 XT NITRO+ - 20 GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/Sapphire-Radeon-RX-7900-XT-NITRO-20-GB-GDDR6-RAM-Naeytoenohjaimet/3143740",
-        "price": "937,68"
-    },
-    {
-        "id": 8,
-        "name": "PowerColor Radeon RX 7900 XT Hellhound - 20 GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/PowerColor-Radeon-RX-7900-XT-Hellhound-20-GB-GDDR6-RAM-Naeytoenohjaimet/3123337",
-        "price": "963,08"
-    },
-    {
-        "id": 9,
-        "name": "ASUS Radeon RX 7900 XT TUF OC - 20 GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-Radeon-RX-7900-XT-TUF-OC-20-GB-GDDR6-RAM-Naeytoenohjaimet/3124201",
-        "price": "942,58"
-    },
-    {
-        "id": 10,
-        "name": "PowerColor Radeon RX 7900 XTX Hellhound Spectral White - 24GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/PowerColor-Radeon-RX-7900-XTX-Hellhound-Spectral-White-24GB-GDDR6-RAM-Naeytoenohjaimet-DEMO/3158057d",
-        "price": "1 029,06"
-    },
-    {
-        "id": 11,
-        "name": "ASUS Radeon RX 7900 XTX TUF OC - 24GB GDDR6 RAM",
-        "Maker": "Amd",
-        "link": "https://www.proshop.fi/Naeytoenohjaimet/ASUS-Radeon-RX-7900-XTX-TUF-OC-24GB-GDDR6-RAM-Naeytoenohjaimet/3124203",
-        "price": "1 149,72"
+        "Name": "Sapphire Radeon RX 7900 XTX NITRO+ - 24GB GDDR6 RAM",
+        "Price": "1 257,42",
+        "Link": "https://www.proshop.fi/Naeytoenohjaimet/Sapphire-Radeon-RX-7900-XTX-NITRO-24GB-GDDR6-RAM-Naeytoenohjaimet/3127492",
+        "Make": "Amd"
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "Name": "Hiiralankaari 22, Westend, Espoo",
+        "Cost": "4 600 000 €",
+        "Space": "364 / 462 m²",
+        "Year made": "Vuosi - 2024",
+        "Link": "https://www.etuovi.com/kohde/v94428?haku=M2076010192"
+    },
+    {
         "Name": "Westendintie 64, Westend, Espoo",
         "Cost": "1 595 000 €",
         "Space": "230 / 300 m²",
@@ -71,7 +78,7 @@
     },
     {
         "Name": "Kiviniitynkuja 2, Luoma, Kirkkonummi",
-        "Cost": "650 000 €",
+        "Cost": "615 000 €",
         "Space": "300 / 424 m²",
         "Year made": "Vuosi - 1987",
         "Link": "https://www.etuovi.com/kohde/20992487?haku=M2076012376"
@@ -84,18 +91,11 @@
         "Link": "https://www.etuovi.com/kohde/21565307?haku=M2076012376"
     },
     {
-        "Name": "Häggesbölenhaara 34, Porkkalanniemi, Kirkkonummi",
-        "Cost": "2 650 000 €",
-        "Space": "403 / 479 m²",
+        "Name": "Aavarannantie 29, Vitträsk, Kirkkonummi",
+        "Cost": "2 800 000 €",
+        "Space": "320 / 435 m²",
         "Year made": "Vuosi - 2017",
-        "Link": "https://www.etuovi.com/kohde/80297985?haku=M2076012376"
-    },
-    {
-        "Name": "Stenkalvintie 83 A, Långvik, Kirkkonummi",
-        "Cost": "445 000 €",
-        "Space": "200 m²",
-        "Year made": "Vuosi - 2001",
-        "Link": "https://www.etuovi.com/kohde/1353380?haku=M2076012376"
+        "Link": "https://www.etuovi.com/kohde/21083899?haku=M2076012376"
     },
     {
         "Name": "Kolmenkyläntie 1, Jorvas, Kirkkonummi",
@@ -119,18 +119,11 @@
         "Link": "https://www.etuovi.com/kohde/21004221?haku=M2076012376"
     },
     {
-        "Name": "Smedsintie 19, Kauniainen",
-        "Cost": "2 380 000 €",
-        "Space": "491 / 708 m²",
-        "Year made": "Vuosi - 1989",
-        "Link": "https://www.etuovi.com/kohde/1354492?haku=M2076012134"
-    },
-    {
-        "Name": "Jalmarinpolku 4 B, Kauniainen, Kauniainen",
+        "Name": "Jalmarinpolku 4, Kauniainen, Kauniainen",
         "Cost": "987 000 €",
         "Space": "290 m²",
         "Year made": "Vuosi - 1982",
-        "Link": "https://www.etuovi.com/kohde/80295303?haku=M2076012134"
+        "Link": "https://www.etuovi.com/kohde/80347341?haku=M2076012134"
     },
     {
         "Name": "Jondalinkuja 2 B, Sepänkylä, Kauniainen",

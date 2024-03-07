@@ -23,7 +23,7 @@ def Haku(url,Maker):
             response.encoding = 'utf-8'
             content = response.text
 
-            processed_content = bs(content, "html.parser") 
+            processed_content = bs(content, "html.parser")
         
             if response.status_code == 200:
                 links = processed_content.find_all("a",  class_="site-product-link")
@@ -46,11 +46,11 @@ def Haku(url,Maker):
                     print(f"    {driver_link}") 
 
                     data = {
-                        "id": nayttis_lasku,
-                        "name": driver_name,
-                        "Maker" : Maker,
-                        "link": driver_link,
-                        "price": driver_price,
+                        #"id": nayttis_lasku,
+                        "Name": driver_name,
+                        "Price": driver_price,
+                        "Link": driver_link,
+                        "Make" : Maker,
                         
                     }
                     result.append(data)           

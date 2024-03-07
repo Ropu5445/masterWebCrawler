@@ -3,3 +3,9 @@ selenium
 requests
 cloudscraper
 numpy
+google-flight-analysis
+tqdm
+pandas
+pytest
+sqlalchemy
+chromedriver-autoinstaller
