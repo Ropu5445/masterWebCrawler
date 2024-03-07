@@ -30,9 +30,10 @@ while True:
     for graphdriver in drivers:
         driverName = graphdriver.text.strip()
         driverLink = baselink+links[value].find('a')['href']
-        driverPrice = prices[value].text.strip()
+        driverPrice = prices[value].text.strip().replace('€', '').replace(',', '.').replace('\xa0','')
         availability = isAvailable[value]
         availability = availability.text.strip().replace('fiber_manual_record','')
+        putPrice = float(driverPrice)
         if availability in ['\nVarastossa', '\nVarastossa 4 kpl', '\nVarastossa 3 kpl', '\nVarastossa 2 kpl', '\nVarastossa 1 kpl']:
             print(f"{i}. {driverName}\n{driverPrice}\n{driverLink}\n{availability}\n")
         else:
@@ -41,9 +42,9 @@ while True:
             break
 
         data = {
-                "name": driverName,
-                "price": driverPrice,
-                "link": driverLink,
+                "Tuote": driverName,
+                "Hinta (€)": putPrice,
+                "Linkki": driverLink,
                 "make": 'Nvidia',
             }
         result.append(data)
@@ -61,7 +62,9 @@ current_page = 1
 while True:
     noMoreDrivers = False
     url = f"https://www.jimms.fi/fi/Product/List/000-00P/komponentit--naytonohjaimet?p={current_page}&ob=5&fg=000-0LP"
-    driver = webdriver.Chrome()
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless=new")
+    driver = webdriver.Chrome(options=options)
     driver.get(url)
     time.sleep(5)
     page_source = driver.page_source
@@ -75,9 +78,10 @@ while True:
     for graphdriver in drivers:
         driverName = graphdriver.text.strip()
         driverLink = baselink+links[value].find('a')['href']
-        driverPrice = prices[value].text.strip()
+        driverPrice = prices[value].text.strip().replace('€', '').replace(',', '.').replace('\xa0','')
         availability = isAvailable[value]
         availability = availability.text.strip().replace('fiber_manual_record','')
+        putPrice = float(driverPrice)
         if availability in ['\nVarastossa', '\nVarastossa 4 kpl', '\nVarastossa 3 kpl', '\nVarastossa 2 kpl', '\nVarastossa 1 kpl']:
             print(f"{i}. {driverName}\n{driverPrice}\n{driverLink}\n{availability}\n")
         else:
@@ -86,10 +90,10 @@ while True:
             break
 
         data = {
-                "name": driverName,
-                "price": driverPrice,
-                "link": driverLink,
-                "make": 'AMD',
+                "Tuote": driverName,
+                "Hinta (€)": putPrice,
+                "Linkki": driverLink,
+                "Valmistaja": 'AMD',
             }
         result.append(data)
         i += 1
