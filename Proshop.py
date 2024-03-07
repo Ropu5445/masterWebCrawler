@@ -69,5 +69,5 @@ Result_Amd = Haku(Url_Amd,"Amd",)
 Result_Final = np.hstack((Result_Nvidia, Result_Amd))
 Result_Final = Result_Final.tolist()
 
-with open('Proshop.json', 'w') as json_file:
+with open('public/data/proshop.json', 'w') as json_file:
     json.dump(Result_Final, json_file, indent=4)
