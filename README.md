@@ -5,13 +5,21 @@ Kloonaa git repo ja asenna tarvittavat node moduulit
 git clone https://github.com/Ropu5445/masterWebCrawler.git
 npm install
 ```
-## Python scriptien käyttö
-Tee python venv projekti kansioon, aktivoi se ja asenna tarvittavat python moduulit. Tämän jälkeen voit käyttää python scriptejä vapaasti. Muista aina aktivoida venv, ennen kuin yrität käyttää python scriptiä.
+Tämän jälkeen tee python venv ja aktivoi se.
 ```
 python -m venv venv
 ./venv/Scripts/activate
 python -m pip install -r requirements.txt
-python gigantti.py
+```
+Korvaa flight.py ja scrape.py tiedostot `venv\Lib\site-packages\google_flight_analysis` kansiossa, saman nimisillä python scripteillä jotka löytyvät projektikansiossa.
+
+## Python scriptien käyttö
+> [!NOTE]
+> Muista aktivoida venv ennen python scriptien käyttöä, komennolla `./venv/Scripts/activate`
+
+Voi käynnistää kaikki python scriptit komennolla.
+```
+python scrapers_runner.py
 ```
 ## Serverin ja Verkkosivun käyttö
 Voit käyttää sivustoa käynnistämällä serverin nodella ja menemällä [localhost](http://localhost:80) sivulle.
