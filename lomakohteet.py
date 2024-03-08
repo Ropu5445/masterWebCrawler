@@ -47,7 +47,7 @@ while True:
         if not cottageName.startswith(('Tarkista vuoden 2024 loma-ajat!', 'Tutustu Nettimökin uusiin kohteisiin!', 'Esittelyssä 50 upeaa kohdetta!','Nettimökin käyttöehdot päivittyvät','Katso 40 upeaa uutuuskohdetta valikoimastamme!')):
             results.append(data)
         json_data = json.dumps(results, indent=4, ensure_ascii=False)
-        with open('cottages.json', 'w', encoding='utf-8') as f:
+        with open('public/data/cottages.json', 'w', encoding='utf-8') as f:
             f.write(json_data)
     driver.close()
     currentpage += 1 
