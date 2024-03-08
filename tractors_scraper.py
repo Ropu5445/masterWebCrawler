@@ -1,27 +1,27 @@
-import time, json
+import json
 from selenium import webdriver
 from bs4 import BeautifulSoup
 
 class Tractor:
-    def __init__(self, name, price, url):
+    def __init__(self, name, price, image, url):
         self.name = name
         self.price = price
+        self.image = image
         self.url = url
 
-def find_tractors():
+def find_tractors(url):
     tractors = []
 
     with webdriver.Chrome() as driver:
-        url = 'https://www.nettikone.com/maatalouskoneet/traktorit?id_country[]=73'
 
         driver.get(url)
-        time.sleep(0.1)
         soup = BeautifulSoup(driver.page_source, "html.parser")
 
         tractor_elements = soup.find_all("a", class_="childVifUrl tricky_link")
         tractor_prices = soup.find_all("div", class_="main_price")
+        tractor_images = soup.find_all("img", {"border": True})
         
-        for tractor_element, price in zip(tractor_elements, tractor_prices):
+        for tractor_element, price, image in zip(tractor_elements, tractor_prices, tractor_images):
             current_name = tractor_element.text
             
             if price.text.replace('\u20ac', '').replace(' ', '') == "Eihinnoiteltu":
@@ -30,8 +30,9 @@ def find_tractors():
                 current_price = float(price.text.replace('\u20ac', '').replace(' ', ''))
             
             current_url = tractor_element["href"]
+            current_image = image["data-src"]
             
-            tractors.append(Tractor(current_name, current_price, current_url))
+            tractors.append(Tractor(current_name, current_price, current_image, current_url))
 
     return tractors
 
@@ -42,7 +43,13 @@ def save_to_json(filename):
        
         print(f"Tractors results saved to {filename}")
 
-tractor_list = find_tractors()
+tractor_list = []
+
+for i in range(10):
+    url = f'https://www.nettikone.com/maatalouskoneet/traktorit?id_country[]=73&page={i + 1}'
+    
+    for tractor in find_tractors(url):
+        tractor_list.append(tractor)
 
 save_to_json("public/data/tractors.json")
 
