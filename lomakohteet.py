@@ -1,5 +1,3 @@
-#mastermcpvp
-
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -18,8 +16,8 @@ while True:
     driver.get(url)
     time.sleep(1)
 
-    page_source = driver.page_source
-    soup = BeautifulSoup(page_source, "html.parser")
+    pagesource = driver.page_source
+    soup = BeautifulSoup(pagesource, "html.parser")
     links = soup.find_all(class_="content-wrapper")
     cottages = soup.find_all(class_="card-list-title")
     prices = soup.find_all(class_="card-list-price")
@@ -29,21 +27,24 @@ while True:
         cottageName = cottage.text
         i+=1
         if value < len(prices):
+
             cottagePrice = prices[value].text.strip()
             cottagePrice = cottagePrice.replace("Alkaen", "")
             cottagePrice = cottagePrice.replace(" ", "")
             cottagePrice = cottagePrice.replace("\n", "")
+            cottagePrice = cottagePrice.replace("\xa0", "")
+            cottagePrice = cottagePrice.replace("€/vrk", "")
+            mokinhinta = float(cottagePrice)
             cottageLinks = links[value] ['href']
-            mokkihinta = float(cottagePrice)
             print(f'{i}.{cottageName} {cottagePrice}\n{cottageLinks}')
         else:
             print(f'Error: No price found for {cottageName}\n')
             cottagename = kummonmulli
         data={
         'mökki': cottageName,
-        'mökin hinta': mokkihinta,
+        'mökin hinta €/vrk': mokinhinta,
         'linkki mökkiin': cottageLinks}
-        if not cottageName.startswith(('Tarkista vuoden 2024 loma-ajat!', 'Tutustu Nettimökin uusiin kohteisiin!', 'Esittelyssä 50 upeaa kohdetta!')):
+        if not cottageName.startswith(('Tarkista vuoden 2024 loma-ajat!', 'Tutustu Nettimökin uusiin kohteisiin!', 'Esittelyssä 50 upeaa kohdetta!','Nettimökin käyttöehdot päivittyvät','Katso 40 upeaa uutuuskohdetta valikoimastamme!')):
             results.append(data)
         json_data = json.dumps(results, indent=4, ensure_ascii=False)
         with open('cottages.json', 'w', encoding='utf-8') as f:
